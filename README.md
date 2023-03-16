@@ -18,6 +18,15 @@
 
 ## 2021
 
+- [From source code to crash test-cases through software testing automation](https://github.com/quarkslab/conf-presentations/blob/main-page/C%26ESAR-2021/CESAR-2021_slides_2-2.pdf) *C&ESAR'22*
+- [Wookey: Episode VII - The Force Awakens](https://github.com/quarkslab/conf-presentations/blob/main-page/GreHack2021/GH2021%20Wookey:%20Episode%20VII%20-%20The%20Force%20Awakens%20-%20Teuwen.pdf) *GreHack'21*
+- [EEPROM - It will all End in Tears](https://github.com/quarkslab/conf-presentations/blob/main-page/Hardweario-NL-2021/teuwen_herrmann_eeprom_tears_hwio_nl_2021_slides.pdf) *HardwareIO'21* --  [EEPROM - It Will All End in Tears](https://github.com/quarkslab/conf-presentations/blob/main-page/SSTIC21/SSTIC2021-Slides-eeprom_it_will_all_end_in_tears-herrmann_teuwen.pdf) *SSTIC'21*
+- [Meet Piotr, a firmware emulation tool for trainers and researchers](https://github.com/quarkslab/conf-presentations/blob/main-page/PTS21/PTS2021-Talk-16-piotr.pdf) *PTS'21*
+- [Reversing And Fuzzing The Google Titan M Chip](https://github.com/quarkslab/conf-presentations/blob/main-page/ROOTS2021/DamianoMelotti_ReversingAndFuzzingTheGoogleTitanMChip_paper.pdf) *ROOTS'21*
+- [QBDL - QuarkslaB Dynamic Loader](https://github.com/quarkslab/conf-presentations/blob/main-page/SSTIC21/SSTIC-21-QBDL-aguinet-rthomas.pdf) *SSTIC'21*
+- [Mining AOSP Dependency Graph for Security](https://github.com/quarkslab/conf-presentations/blob/main-page/SSTIC21/SSTIC2021-Slides-bgraph-challande_renault_david.pdf) *SSTIC'21*
+- [2021: A Titan M Odyssey](https://github.com/quarkslab/conf-presentations/blob/main-page/BlackHat-Europe-21/EU-21-Rossi_Bellom-2021_A_Titan_M_Odyssey-wp.pdf) *BlackHatEU'21*
+
 ## 2020
 
 
