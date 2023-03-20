@@ -1,7 +1,7 @@
 # Quarkslab Publications
 
 * [Conference Papers / Presentations](#conference-papers--presentations)
-* [Hardware CTFs](#ctfs)
+* [Hardware CTFs](#hardware-ctfs)
 
 ## Conference Papers / Presentations
 ### 2022
