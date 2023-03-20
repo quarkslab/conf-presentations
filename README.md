@@ -1,7 +1,17 @@
 # Quarkslab Publications
 
-* [Conference Papers / Presentations](#conference-papers--presentations)
-* [Hardware CTFs](#hardware-ctfs)
+- [Quarkslab Publications](#quarkslab-publications)
+  - [Conference Papers / Presentations](#conference-papers--presentations)
+    - [2022](#2022)
+    - [2021](#2021)
+    - [2020](#2020)
+    - [2019](#2019)
+    - [2018](#2018)
+    - [2017](#2017)
+    - [2016](#2016)
+    - [2015](#2015)
+    - [2012](#2012)
+  - [Hardware CTFs](#hardware-ctfs)
 
 ## Conference Papers / Presentations
 ### 2022
@@ -26,7 +36,7 @@
 
 - [From source code to crash test-cases through software testing automation 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/C%26ESAR-2021/CESAR-2021_slides_2-2.pdf) *C&ESAR'22*
 - [Wookey: Episode VII - The Force Awakens 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/GreHack2021/GH2021%20Wookey:%20Episode%20VII%20-%20The%20Force%20Awakens%20-%20Teuwen.pdf)[📽️](https://www.youtube.com/watch?v=aAuiJZatYR8) *GreHack'21*
-- [EEPROM - It will all End in Tears (EN) 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/Hardweario-NL-2021/teuwen_herrmann_eeprom_tears_hwio_nl_2021_slides.pdf)[📽️](https://www.youtube.com/watch?v=zZp5h0Tdkhk)*Hardwear.io NL'21* 
+- [EEPROM - It will all End in Tears (EN) 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/Hardweario-NL-2021/teuwen_herrmann_eeprom_tears_hwio_nl_2021_slides.pdf)[📽️](https://www.youtube.com/watch?v=zZp5h0Tdkhk) *Hardwear.io NL'21* 
 - [EEPROM - It Will All End in Tears (FR) 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/SSTIC21/SSTIC2021-Slides-eeprom_it_will_all_end_in_tears-herrmann_teuwen.pdf)[📽️](https://static.sstic.org/videos2021/1080p/vostfr-eeprom_it_will_all_end_in_tears.mp4)[📜](SSTIC2021-Article-eeprom_it_will_all_end_in_tears-herrmann_teuwen.pdf) *SSTIC'21*
 - [Meet Piotr, a firmware emulation tool for trainers and researchers 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/PTS21/PTS2021-Talk-16-piotr.pdf)[📽️](https://archives.pass-the-salt.org/Pass%20the%20SALT/2021/videos/PTS2021-Talk-16-piotr.mp4) *PTS'21*
 - [Reversing And Fuzzing The Google Titan M Chip 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/ROOTS2021/DamianoMelotti_ReversingAndFuzzingTheGoogleTitanMChip_paper.pdf) *ROOTS'21*
@@ -40,7 +50,7 @@
 - [Collision-Based Attacks Against Whiteboxes with QBDI 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/Barbhack20/20-Barbhack-Collision-Based-Attacks-Against-Whiteboxes-with-QBDI.pdf) *BarbHack'20*
 - [Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/BlackHat-Asia-20/asia-20-Thomas-Dynamic-Binary-Instrumentation-Techniques-to-Address-Native-Code-Obfuscation.pdf)[📽️](https://www.youtube.com/watch?v=MRku-2fW42w)[📜](https://github.com/quarkslab/conf-presentations/blob/main-page/BlackHat-Asia-20/asia-20-Thomas-Dynamic-Binary-Instrumentation-Techniques-to-Address-Native-Code-Obfuscation-wp.pdf) *BlackHat Asia'20*
 - [Why are Frida and QBDI a Great Blend on Android? 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/PTS20/PTS2020-Talk-05-Frida_QBDI.pdf)[📽️](https://archives.pass-the-salt.org/Pass%20the%20SALT/2020/videos/PTS2020-Talk-05-Frida_QBDI.mp4) *PTS'20*
-- [Fuzz and Profit with WHVP 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/SSTIC20/AumaitreDamien_FuzzAndProfitWithWHVP_slides.pdf)[📽️](https://static.sstic.org/videos2020/1080p/FuzzAndProfitWithWHVP.mp4)[📜](https://github.com/quarkslab/conf-presentations/blob/main-page/SSTIC20/AumaitreDamien_FuzzAndProfitWithWHVP.pdf)] *SSTIC'20*
+- [Fuzz and Profit with WHVP 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/SSTIC20/AumaitreDamien_FuzzAndProfitWithWHVP_slides.pdf)[📽️](https://static.sstic.org/videos2020/1080p/FuzzAndProfitWithWHVP.mp4)[📜](https://github.com/quarkslab/conf-presentations/blob/main-page/SSTIC20/AumaitreDamien_FuzzAndProfitWithWHVP.pdf) *SSTIC'20*
 
 ### 2019
 
