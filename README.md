@@ -18,7 +18,7 @@
 
 ### 2023
 
--[Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
+- [Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
 
 ### 2022
 
