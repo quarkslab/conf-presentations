@@ -2,6 +2,7 @@
 
 - [Quarkslab Publications](#quarkslab-publications)
   - [Conference Papers / Presentations](#conference-papers--presentations)
+    - [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
@@ -14,6 +15,11 @@
   - [Hardware CTFs](#hardware-ctfs)
 
 ## Conference Papers / Presentations
+
+### 2023
+
+-[Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
+
 ### 2022
 
 - [Attack on Titan M 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/Troopers22/Melotti-RossiBellom_TitanM.pdf)[📽️](https://www.youtube.com/watch?v=clhzUGcx47A) *Troopers'22*
