@@ -18,7 +18,7 @@
 
 ### 2023
 
-- [Whatever Pown2own  🖥️]](https://github.com/quarkslab/conf-presentations/blob/master/INS23/Whatever_Pown2own.pdf) *Insomni'hack 2023*
+- [Whatever Pown2own 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/INS23/Whatever_Pown2own.pdf) *Insomni'hack 2023*
 - [Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
 
 ### 2022
