@@ -18,7 +18,7 @@
 
 ### 2023
 
-- [Weaponizing ESP32 RF Stacks 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/THCon32/THCon23-Cayre-Cauquil-Weaponizing-ESP32-RF-stacks.pdf)[📽️](https://www.youtube.com/live/Mks2pZ4Subw?feature=share&t=13005) *THCon 2023*
+- [Weaponizing ESP32 RF Stacks 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/THCon23/THCon23-Cayre-Cauquil-Weaponizing-ESP32-RF-stacks.pdf)[📽️](https://www.youtube.com/live/Mks2pZ4Subw?feature=share&t=13005) *THCon 2023*
 - [Whatever Pown2own 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/INS23/Whatever_Pown2own.pdf) *Insomni'hack 2023*
 - [Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
 
