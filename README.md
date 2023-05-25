@@ -18,11 +18,12 @@
 
 ### 2023
 
-- [Reflections on Supply chain security 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CERT2023/20230424-CERTvendors-conf-Reflections_on_Supply-chain_security-iarce.pdf
-), *CERT Vendors Conference 2023*
+- [ESPwn32: Hacking with ESP32 System-on-Chips 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/)[📜](https://github.com/quarkslab/conf-presentations/blob/master/), *WOOT'23* 
 - [Emulating RH850 for fun and vulnerability research 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/QPSS2023/QPSS2023-Emulating_Renesas_RH850-dcauquil-slides.pdf), *QPSS2023*
 - [PASTIS - A Collaborative Approach to Combine Heterogeneous Software Testing Techniques 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SBTF-ICSE-2023/SBFT2023-PASTIS-rdavid.pdf) [📜](https://github.com/quarkslab/conf-presentations/blob/master/SBTF-ICSE-2023/SBFT2023-PASTIS-paper-rdavid.pdf), *SBTF2023*
 - [Trying to break randomness with statistics in less than 5minutes 🖥️](https://github.com/quarkslab/conf-presentations/blob/sthack-pwn2own/Sthack23/brocas_forgette_pwn2own_sthack23.pdf), *Sthack 2023*
+- [Reflections on Supply chain security 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CERT2023/20230424-CERTvendors-conf-Reflections_on_Supply-chain_security-iarce.pdf
+), *CERT Vendor Conference 2023*
 - [Weaponizing ESP32 RF Stacks 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/THCon23/THCon23-Cayre-Cauquil-Weaponizing-ESP32-RF-stacks.pdf)[📽️](https://www.youtube.com/live/Mks2pZ4Subw?feature=share&t=13005) *THCon 2023*
 - [Whatever Pown2own 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/INS23/Whatever_Pown2own.pdf) *Insomni'hack 2023*
 - [Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
