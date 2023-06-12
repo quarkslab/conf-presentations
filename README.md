@@ -25,9 +25,13 @@
 - [Trying to break randomness with statistics in less than 5minutes 🖥️](https://github.com/quarkslab/conf-presentations/blob/sthack-pwn2own/Sthack23/brocas_forgette_pwn2own_sthack23.pdf), *StHack 2023*
 - [Reflections on Supply chain security 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CERT2023/20230424-CERTvendors-conf-Reflections_on_Supply-chain_security-iarce.pdf
 ), *CERT Vendor Conference 2023*
-- [Weaponizing ESP32 RF Stacks 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/THCon23/THCon23-Cayre-Cauquil-Weaponizing-ESP32-RF-stacks.pdf)[📽️](https://www.youtube.com/live/Mks2pZ4Subw?feature=share&t=13005) *THCon 2023*
-- [Whatever Pown2own 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/INS23/Whatever_Pown2own.pdf) *Insomni'hack 2023*
-- [Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
+- [Weaponizing ESP32 RF Stacks 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/THCon23/THCon23-Cayre-Cauquil-Weaponizing-ESP32-RF-stacks.pdf)[📽️](https://www.youtube.com/live/Mks2pZ4Subw?feature=share&t=13005), *THCon 2023*
+- [Whatever Pown2own 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/INS23/Whatever_Pown2own.pdf), *Insomni'hack 2023*
+- [Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf), *CLAP-HiFi-LVP'23*
+- [Exploring OpenSSL Engines to Smash Cryptography 🖥️]()[📜](SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf), *SSTIC'23* 
+- [peetch: an eBPF based Networking Tool 🖥️](SSTIC23/SSTIC2023-Slides-peetch-valadon.pdf) *SSTIC'23* 
+- [Rétro-ingénierie et détournement de piles
+protocolaires embarquées 🖥️](SSTIC23/SSTIC2023-Slides-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf), *SSTIC'23* 
 
 ### 2022
 
