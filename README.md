@@ -30,8 +30,8 @@
 - [Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
 - [Exploring OpenSSL Engines to Smash Cryptography 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/engines-sstic23.pdf)[📜](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf) *SSTIC'23* 
 - [peetch: an eBPF based Networking Tool 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Slides-peetch-valadon.pdf) *SSTIC'23* 
-- [Rétro-ingénierie et détournement de piles
-protocolaires embarquées 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Slides-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf) *SSTIC'23* 
+- [Rétro-ingénierie et détournement de piles protocolaires embarquées 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Slides-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf) *SSTIC'23* 
+- [Dissecting the Modern Android Data Encryption Scheme](https://github.com/quarkslab/conf-presentations/blob/master/Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon 2023*
 
 ### 2022
 
