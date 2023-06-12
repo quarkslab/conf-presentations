@@ -18,6 +18,10 @@
 
 ### 2023
 
+- [Dissecting the Modern Android Data Encryption Scheme 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon 2023*
+- [Exploring OpenSSL Engines to Smash Cryptography 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/engines-sstic23.pdf)[📜](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf) *SSTIC'23* 
+- [peetch: an eBPF based Networking Tool 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Slides-peetch-valadon.pdf)[📽️](https://static.sstic.org/videos2023/1080p/peetch.mp4) *SSTIC'23* 
+- [Rétro-ingénierie et détournement de piles protocolaires embarquées 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Slides-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf)[📽️](https://static.sstic.org/videos2023/1080p/reverse_de_piles_protocolaires_embarquees_esp32.mp4) *SSTIC'23* 
 - [ESPwn32: Hacking with ESP32 System-on-Chips 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/WOOT-2023/22-ESPwn32_Hacking_with_ESP32_SoCs.pdf)[📜](https://github.com/quarkslab/conf-presentations/blob/master/WOOT-2023/woot23-paper22.pdf) *WOOT'23* 
 - [Emulating RH850 for fun and vulnerability research 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/QPSS2023/QPSS2023-Emulating_Renesas_RH850-dcauquil-slides.pdf) *QPSS2023*
 - [PASTIS - A Collaborative Approach to Combine Heterogeneous Software Testing Techniques 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SBTF-ICSE-2023/SBFT2023-PASTIS-rdavid.pdf) [📜](https://github.com/quarkslab/conf-presentations/blob/master/SBTF-ICSE-2023/SBFT2023-PASTIS-paper-rdavid.pdf) *SBTF2023*
@@ -28,10 +32,6 @@
 - [Weaponizing ESP32 RF Stacks 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/THCon23/THCon23-Cayre-Cauquil-Weaponizing-ESP32-RF-stacks.pdf)[📽️](https://www.youtube.com/live/Mks2pZ4Subw?feature=share&t=13005) *THCon 2023*
 - [Whatever Pown2own 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/INS23/Whatever_Pown2own.pdf) *Insomni'hack 2023*
 - [Traceability of the compilation process 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
-- [Exploring OpenSSL Engines to Smash Cryptography 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/engines-sstic23.pdf)[📜](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf) *SSTIC'23* 
-- [peetch: an eBPF based Networking Tool 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Slides-peetch-valadon.pdf)[📽️](https://static.sstic.org/videos2023/1080p/peetch.mp4) *SSTIC'23* 
-- [Rétro-ingénierie et détournement de piles protocolaires embarquées 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/SSTIC23/SSTIC2023-Slides-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf)[📽️](https://static.sstic.org/videos2023/1080p/reverse_de_piles_protocolaires_embarquees_esp32.mp4) *SSTIC'23* 
-- [Dissecting the Modern Android Data Encryption Scheme 🖥️](https://github.com/quarkslab/conf-presentations/blob/master/Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon 2023*
 
 
 ### 2022
