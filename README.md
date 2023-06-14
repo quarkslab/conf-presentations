@@ -125,6 +125,6 @@
   - [Prize Ceremony, Hardwear.io USA 2022 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/HardwareCTF/202206_v4_hardweario_usa.pdf)
   - [Prize Ceremony, Nullcon Goa 2022 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/HardwareCTF/202209_v4_nullcon.pdf)
 - Fifth Edition
-  - [Prize Ceremony, Hardwear.io NL 2022 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/HardwareCTF/202210_v5_hardweario_nl.pdf)
-  - [Prize Ceremony, Hardwear.io USA 2023 🖥️](https://github.com/quarkslab/conf-presentations/blob/main-page/HardwareCTF/202306_v5_hardweario_usa.pdf)
+  - [Prize Ceremony, Hardwear.io NL 2022 🖥️](HardwareCTF/202210_v5_hardweario_nl.pdf)
+  - [Prize Ceremony, Hardwear.io USA 2023 🖥️](HardwareCTF/202306_v5_hardweario_usa.pdf)
 
