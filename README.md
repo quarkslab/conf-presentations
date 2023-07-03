@@ -19,6 +19,7 @@
 
 ### 2023
 
+- [Parasitizing servers for fun and profit 🖥️](LeHack23/cauquil-Parasitizing_servers_for_fun_and_profit.pdf) *Le HACK 2023*
 - [Google Apps Script 🖥️](ESE23/ESE_Google_Apps_Script-v1.0.pdf) *ESE 2023*
 - [Who evaluates the evaluators ? 🖥️](WRACH2023/WRACH2023-who-evaluates-evaluators-slides-mvideau.pdf) *WRACH 2023*
 - [Dissecting the Modern Android Data Encryption Scheme 🖥️](Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon 2023*
