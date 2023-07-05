@@ -19,6 +19,7 @@
 
 ### 2023
 
+- [Map your Firmware!🖥️](PTS23/map_your_firmware.pdf) *PTS'23*
 - [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](PTS23/uefi_tcg2smm.pdf) *PTS'23*
 - [Parasitizing servers for fun and profit 🖥️](LeHack23/cauquil-Parasitizing_servers_for_fun_and_profit.pdf) *Le HACK'23*
 - [Google Apps Script 🖥️](ESE23/ESE_Google_Apps_Script-v1.0.pdf) *ESE'23*
