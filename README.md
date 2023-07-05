@@ -19,11 +19,12 @@
 
 ### 2023
 
-- [Parasitizing servers for fun and profit 🖥️](LeHack23/cauquil-Parasitizing_servers_for_fun_and_profit.pdf) *Le HACK 2023*
-- [Google Apps Script 🖥️](ESE23/ESE_Google_Apps_Script-v1.0.pdf) *ESE 2023*
-- [Who evaluates the evaluators ? 🖥️](WRACH2023/WRACH2023-who-evaluates-evaluators-slides-mvideau.pdf) *WRACH 2023*
-- [Dissecting the Modern Android Data Encryption Scheme 🖥️](Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon 2023*
-- [Trace-based approach to compiler debugging 🖥️](GDRGPL23/pres.pdf) *GDR GPL National Days 2023*
+- [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](PTS23/uefi_tcg2smm.pdf) *PTS'23*
+- [Parasitizing servers for fun and profit 🖥️](LeHack23/cauquil-Parasitizing_servers_for_fun_and_profit.pdf) *Le HACK'23*
+- [Google Apps Script 🖥️](ESE23/ESE_Google_Apps_Script-v1.0.pdf) *ESE'23*
+- [Who evaluates the evaluators ? 🖥️](WRACH2023/WRACH2023-who-evaluates-evaluators-slides-mvideau.pdf) *WRACH'23*
+- [Dissecting the Modern Android Data Encryption Scheme 🖥️](Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon'23*
+- [Trace-based approach to compiler debugging 🖥️](GDRGPL23/pres.pdf) *GDR GPL National Days'23*
 - [Exploring OpenSSL Engines to Smash Cryptography 🖥️](SSTIC23/SSTIC2023-Slides-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf)[📜](SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf) *SSTIC'23* 
 - [peetch: an eBPF based Networking Tool 🖥️](SSTIC23/SSTIC2023-Slides-peetch-valadon.pdf)[📽️](https://static.sstic.org/videos2023/1080p/peetch.mp4) *SSTIC'23* 
 - [Rétro-ingénierie et détournement de piles protocolaires embarquées 🖥️](SSTIC23/SSTIC2023-Slides-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf)[📜](SSTIC23/SSTIC2023-Article-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf)[📽️](https://static.sstic.org/videos2023/1080p/reverse_de_piles_protocolaires_embarquees_esp32.mp4) *SSTIC'23* 
