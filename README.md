@@ -28,7 +28,7 @@
 - [Who evaluates the evaluators ? 🖥️](Confs/WRACH2023/WRACH2023-who-evaluates-evaluators-slides-mvideau.pdf) *WRACH'23*
 - [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon'23*
 - [Trace-based approach to compiler debugging 🖥️](Confs/GDRGPL23/pres.pdf) *GDR GPL National Days'23*
-- [Exploring OpenSSL Engines to Smash Cryptography 🖥️](Confs/SSTIC23/SSTIC2023-Slides-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf)[📜](Confs/SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf) *SSTIC'23* 
+- [Exploring OpenSSL Engines to Smash Cryptography 🖥️](Confs/SSTIC23/SSTIC2023-Slides-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf)[📜](Confs/SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf)[📽️](https://static.sstic.org/videos2023/1080p/exploring_openssl_engines_to_smash_cryptography.mp4) *SSTIC'23* 
 - [peetch: an eBPF based Networking Tool 🖥️](Confs/SSTIC23/SSTIC2023-Slides-peetch-valadon.pdf)[📽️](https://static.sstic.org/videos2023/1080p/peetch.mp4) *SSTIC'23* 
 - [Rétro-ingénierie et détournement de piles protocolaires embarquées 🖥️](Confs/SSTIC23/SSTIC2023-Slides-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf)[📜](Confs/SSTIC23/SSTIC2023-Article-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre.pdf)[📽️](https://static.sstic.org/videos2023/1080p/reverse_de_piles_protocolaires_embarquees_esp32.mp4) *SSTIC'23* 
 - [ESPwn32: Hacking with ESP32 System-on-Chips 🖥️](Confs/WOOT-2023/22-ESPwn32_Hacking_with_ESP32_SoCs.pdf)[📜](Confs/WOOT-2023/woot23-paper22.pdf) *WOOT'23* 
