@@ -19,9 +19,9 @@
 
 ### 2023
 
-- [Map your Firmware! 🖥️](Confs/PTS23/map_your_firmware.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-map-your-firmware/) *PTS'23*
-- [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](Confs/PTS23/uefi_tcg2smm.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-for-science-using-an-unimpressive-bug-in-edk-ii-to-do-some-fun-exploitation/) *PTS'23*
-- [Vulnerabilities in the TPM 2.0 reference implementation code 🖥️](Confs/PTS23/PTS-Falcon-VulnerabilitiesintheTPMReferenceImplementationCode.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-vulnerabilities-in-the-tpm-20-reference-implementation-code/) *PTS'23*
+- [Map your Firmware! 🖥️](Confs/PTS23/PTS2023-Talk-14-Pyrrha-map-your-firmware.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-map-your-firmware/) *PTS'23*
+- [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](Confs/PTS23/PTS2023-Talk-03-EDK2.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-for-science-using-an-unimpressive-bug-in-edk-ii-to-do-some-fun-exploitation/) *PTS'23*
+- [Vulnerabilities in the TPM 2.0 reference implementation code 🖥️](Confs/PTS23/PTS2023-Talk-01-Vuln-in-TPM2-reference-implementation.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-vulnerabilities-in-the-tpm-20-reference-implementation-code/) *PTS'23*
 - [Parasitizing servers for fun and profit 🖥️](Confs/LeHack23/cauquil-Parasitizing_servers_for_fun_and_profit.pdf) *Le HACK'23*
 - [Vulnerabilities in the TPM 2.0 Reference Implementation Code 🖥️](Confs/Troopers23/Troopers-Falcon-VulnerabilitiesintheTPMReferenceImplementationCode.pdf) *Troopers'23*
 - [Google Apps Script 🖥️](Confs/ESE23/ESE_Google_Apps_Script-v1.0.pdf) *ESE'23*
