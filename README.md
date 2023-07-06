@@ -21,8 +21,9 @@
 
 - [Map your Firmware! 🖥️](PTS23/map_your_firmware.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-map-your-firmware/) *PTS'23*
 - [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](PTS23/uefi_tcg2smm.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-for-science-using-an-unimpressive-bug-in-edk-ii-to-do-some-fun-exploitation/) *PTS'23*
-- [Vulnerabilities in the TPM 2.0 reference implementation code]()[📽️](https://passthesalt.ubicast.tv/videos/2023-vulnerabilities-in-the-tpm-20-reference-implementation-code/) *PTS'23*
+- [Vulnerabilities in the TPM 2.0 reference implementation code 🖥️](PTS23/PTS-Falcon-Vulnerabilities in the TPM 2.0 Reference Implementation Code.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-vulnerabilities-in-the-tpm-20-reference-implementation-code/) *PTS'23*
 - [Parasitizing servers for fun and profit 🖥️](LeHack23/cauquil-Parasitizing_servers_for_fun_and_profit.pdf) *Le HACK'23*
+- [Vulnerabilities in the TPM 2.0 Reference Implementation Code 🖥️](Troopers23/Troopers-Falcon-Vulnerabilities in the TPM 2.0 Reference Implementation Code.pdf)
 - [Google Apps Script 🖥️](ESE23/ESE_Google_Apps_Script-v1.0.pdf) *ESE'23*
 - [Who evaluates the evaluators ? 🖥️](WRACH2023/WRACH2023-who-evaluates-evaluators-slides-mvideau.pdf) *WRACH'23*
 - [Dissecting the Modern Android Data Encryption Scheme 🖥️](Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon'23*
