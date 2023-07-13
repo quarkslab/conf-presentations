@@ -34,11 +34,11 @@
 - [ESPwn32: Hacking with ESP32 System-on-Chips 🖥️](Confs/WOOT-2023/22-ESPwn32_Hacking_with_ESP32_SoCs.pdf)[📜](Confs/WOOT-2023/woot23-paper22.pdf) *WOOT'23* 
 - [Emulating RH850 for fun and vulnerability research 🖥️](Confs/QPSS2023/QPSS2023-Emulating_Renesas_RH850-dcauquil-slides.pdf) *QPSS2023*
 - [PASTIS - A Collaborative Approach to Combine Heterogeneous Software Testing Techniques 🖥️](Confs/SBTF-ICSE-2023/SBFT2023-PASTIS-rdavid.pdf) [📜](Confs/SBTF-ICSE-2023/SBFT2023-PASTIS-paper-rdavid.pdf) *SBTF2023*
-- [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](Confs/Sthack23/uefi_tcg2smm.pdf) *StHack 2023*
-- [Trying to break randomness with statistics in less than 5minutes 🖥️](Confs/Sthack23/brocas_forgette_pwn2own_sthack23.pdf) *StHack 2023*
-- [Reflections on Supply chain security 🖥️](Confs/CERT2023/20230424-CERTvendors-conf-Reflections_on_Supply-chain_security-iarce.pdf) *CERT Vendor Conference 2023*
-- [Weaponizing ESP32 RF Stacks 🖥️](Confs/THCon23/THCon23-Cayre-Cauquil-Weaponizing-ESP32-RF-stacks.pdf)[📽️](https://www.youtube.com/live/Mks2pZ4Subw?feature=share&t=13005) *THCon 2023*
-- [Whatever Pown2own 🖥️](Confs/INS23/Whatever_Pown2own.pdf) *Insomni'hack 2023*
+- [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](Confs/Sthack23/uefi_tcg2smm.pdf)[📽️](https://www.youtube.com/watch?v=SjFTqqiHVBE) *StHack'23*
+- [Trying to break randomness with statistics in less than 5minutes 🖥️](Confs/Sthack23/brocas_forgette_pwn2own_sthack23.pdf) *StHack'23*
+- [Reflections on Supply chain security 🖥️](Confs/CERT2023/20230424-CERTvendors-conf-Reflections_on_Supply-chain_security-iarce.pdf) *CERT Vendor Conference'23*
+- [Weaponizing ESP32 RF Stacks 🖥️](Confs/THCon23/THCon23-Cayre-Cauquil-Weaponizing-ESP32-RF-stacks.pdf)[📽️](https://www.youtube.com/live/Mks2pZ4Subw?feature=share&t=13005) *THCon'23*
+- [Whatever Pown2own 🖥️](Confs/INS23/Whatever_Pown2own.pdf) *Insomni'hack'23*
 - [Traceability of the compilation process 🖥️](Confs/CLAP-HiFi-LVP-2023/pres-clap.pdf) *CLAP-HiFi-LVP'23*
 
 
