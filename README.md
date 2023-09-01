@@ -19,8 +19,8 @@
 
 ### 2023
 
-- [Emulation de périphérique USB-ETH pour l’audit IoT/Automotive 🖥️](Confs/Barbhack23/Barbhack_2023_Workshop_Car_in_a_Box.pdf) *BarbHack'23*
-- [Introduction au CarHacking Comment construire sa “Car-in-a-box” 🖥️](Confs/Barbhack23/Barbhack_2023_QB_Emulation_USB-ETH.pdf) *BarbHack'23*
+- [Emulation de périphérique USB-ETH pour l’audit IoT/Automotive 🖥️](Confs/Barbhack23/Barbhack_2023_QB_Emulation_USB-ETH.pdf) *BarbHack'23*
+- [Introduction au CarHacking Comment construire sa “Car-in-a-box” 🖥️](Confs/Barbhack23/Barbhack_2023_Workshop_Car_in_a_Box.pdf) *BarbHack'23*
 - [Map your Firmware! 🖥️](Confs/PTS23/PTS2023-Talk-14-Pyrrha-map-your-firmware.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-map-your-firmware/) *PTS'23*
 - [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](Confs/PTS23/PTS2023-Talk-03-EDK2.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-for-science-using-an-unimpressive-bug-in-edk-ii-to-do-some-fun-exploitation/) *PTS'23*
 - [Vulnerabilities in the TPM 2.0 reference implementation code 🖥️](Confs/PTS23/PTS2023-Talk-01-Vuln-in-TPM2-reference-implementation.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-vulnerabilities-in-the-tpm-20-reference-implementation-code/) *PTS'23*
