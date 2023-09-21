@@ -19,6 +19,7 @@
 
 ### 2023
 
+- [Fuzzing ntop 🖥️](Confs/ntopconf-2023/ntopconf-2023-fuzzing-ntop-rmore.pdf) *ntopconf'23*
 - [Emulation de périphérique USB-ETH pour l’audit IoT/Automotive 🖥️](Confs/Barbhack23/Barbhack_2023_QB_Emulation_USB-ETH.pdf) *BarbHack'23*
 - [Introduction au CarHacking Comment construire sa “Car-in-a-box” 🖥️](Confs/Barbhack23/Barbhack_2023_Workshop_Car_in_a_Box.pdf) *BarbHack'23*
 - [Map your Firmware! 🖥️](Confs/PTS23/PTS2023-Talk-14-Pyrrha-map-your-firmware.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-map-your-firmware/) *PTS'23*
