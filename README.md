@@ -19,6 +19,7 @@
 
 ### 2023
 
+- [Pyrrha: navigate easily into your system binaries 🖥️](Confs/HackLu23/pyrrha.pdf)[📽️](https://t.co/MaEFws67hp) *Hack.lu'23*
 - [Fuzzing ntop 🖥️](Confs/ntopconf-2023/ntopconf-2023-fuzzing-ntop-rmori.pdf) *ntopconf'23*
 - [Emulation de périphérique USB-ETH pour l’audit IoT/Automotive 🖥️](Confs/Barbhack23/Barbhack_2023_QB_Emulation_USB-ETH.pdf) *BarbHack'23*
 - [Introduction au CarHacking Comment construire sa “Car-in-a-box” 🖥️](Confs/Barbhack23/Barbhack_2023_Workshop_Car_in_a_Box.pdf) *BarbHack'23*
