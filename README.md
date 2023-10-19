@@ -19,6 +19,7 @@
 
 ### 2023
 
+- [Intel SGX assessment methodology 🖥️](Confs/AzureConfidentialComputing/AzureConfidentialComputing-IntelSGX-BlindAI-audit.pdf) *Azure Confidential Computing 2023*
 - [Pyrrha: navigate easily into your system binaries 🖥️](Confs/HackLu23/pyrrha.pdf)[📽️](https://t.co/MaEFws67hp) *Hack.lu'23*
 - [Fuzzing ntop 🖥️](Confs/ntopconf-2023/ntopconf-2023-fuzzing-ntop-rmori.pdf) *ntopconf'23*
 - [Emulation de périphérique USB-ETH pour l’audit IoT/Automotive 🖥️](Confs/Barbhack23/Barbhack_2023_QB_Emulation_USB-ETH.pdf) *BarbHack'23*
