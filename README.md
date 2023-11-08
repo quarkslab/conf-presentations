@@ -147,4 +147,5 @@
 - Fifth Edition
   - [Prize Ceremony, Hardwear.io NL 2022 🖥️](HardwareCTF/202210_v5_hardweario_nl.pdf)
   - [Prize Ceremony, Hardwear.io USA 2023 🖥️](HardwareCTF/202306_v5_hardweario_usa.pdf)
-
+- Sixth Edition
+  - [Prize Ceremony, Hardwear.io NL 2023 🖥️](HardwareCTF/202311_v6_hardweario_nl.pdf)
