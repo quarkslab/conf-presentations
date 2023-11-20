@@ -19,8 +19,9 @@
 
 ### 2023
 
-- [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Ekoparty2023/2023-11-03-ekoparty-gecko_bootloader-fenrisfulsur.pdf) *Ekoparty 2023*
+- [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Hardweario-NL-2023/HWIO23-Android-FBE-mrossibellom-dmelotti.pdf) *Hardwear.io NL'23*
 - [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Hardweario-NL-2023/2023-11-03-hwio_nl-gecko_bootloader-madsquirrel.pdf) *Hardwear.io NL'23*
+- [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Ekoparty2023/2023-11-03-ekoparty-gecko_bootloader-fenrisfulsur.pdf) *Ekoparty 2023*
 - [On the All UR are to be considered harmful for fun and profit is the new cool trick, hackers hate it. Redux. 🖥️](Confs/Ekoparty2023/2023-11-01-ekoparty-keynote-iarce.pdf) *Ekoparty 2023*
 - [Intel SGX assessment methodology 🖥️](Confs/AzureConfidentialComputing/AzureConfidentialComputing-IntelSGX-BlindAI-audit.pdf) *Azure Confidential Computing 2023*
 - [Pyrrha: navigate easily into your system binaries 🖥️](Confs/HackLu23/pyrrha.pdf)[📽️](https://t.co/MaEFws67hp) *Hack.lu'23*
