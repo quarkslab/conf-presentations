@@ -19,6 +19,7 @@
 
 ### 2023
 
+- [Google Apps Script 🖥️](confs/GreHack23/GreHack2023_Google_Apps_Script-v1.0.pptx) *GreHack'23*
 - [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Hardweario-NL-2023/HWIO23-Android-FBE-mrossibellom-dmelotti.pdf) *Hardwear.io NL'23*
 - [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Hardweario-NL-2023/2023-11-03-hwio_nl-gecko_bootloader-madsquirrel.pdf) *Hardwear.io NL'23*
 - [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Ekoparty2023/2023-11-03-ekoparty-gecko_bootloader-fenrisfulsur.pdf) *Ekoparty 2023*
