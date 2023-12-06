@@ -19,24 +19,24 @@
 
 ### 2023
 
-- [Google Apps Script 🖥️](confs/GreHack23/GreHack2023_Google_Apps_Script-v1.0.pptx) *GreHack'23*
+- [Google Apps Script 🖥️](confs/GreHack23/GreHack2023_Google_Apps_Script-v1.0.pptx)[📽️](https://www.youtube.com/watch?v=mHJ1xjH-pq0) *GreHack'23*
 - [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Hardweario-NL-2023/HWIO23-Android-FBE-mrossibellom-dmelotti.pdf) *Hardwear.io NL'23*
-- [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Hardweario-NL-2023/2023-11-03-hwio_nl-gecko_bootloader-madsquirrel.pdf) *Hardwear.io NL'23*
-- [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Ekoparty2023/2023-11-03-ekoparty-gecko_bootloader-fenrisfulsur.pdf) *Ekoparty 2023*
-- [On the All UR are to be considered harmful for fun and profit is the new cool trick, hackers hate it. Redux. 🖥️](Confs/Ekoparty2023/2023-11-01-ekoparty-keynote-iarce.pdf) *Ekoparty 2023*
+- [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Hardweario-NL-2023/2023-11-03-hwio_nl-gecko_bootloader-madsquirrel.pdf)[📽️](https://www.youtube.com/watch?v=WgXw6GgYz78) *Hardwear.io NL'23*
+- [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Ekoparty2023/2023-11-03-ekoparty-gecko_bootloader-fenrisfulsur.pdf)[📽️](https://www.youtube.com/watch?v=bWO9pIWd_Ok) *Ekoparty 2023*
+- [On the All UR are to be considered harmful for fun and profit is the new cool trick, hackers hate it. Redux. 🖥️](Confs/Ekoparty2023/2023-11-01-ekoparty-keynote-iarce.pdf)[📽️](https://www.youtube.com/watch?v=YIcW7hnhBBE) *Ekoparty 2023*
 - [Intel SGX assessment methodology 🖥️](Confs/AzureConfidentialComputing/AzureConfidentialComputing-IntelSGX-BlindAI-audit.pdf) *Azure Confidential Computing 2023*
-- [Pyrrha: navigate easily into your system binaries 🖥️](Confs/HackLu23/pyrrha.pdf)[📽️](https://t.co/MaEFws67hp) *Hack.lu'23*
+- [Pyrrha: navigate easily into your system binaries 🖥️](Confs/HackLu23/pyrrha.pdf)[📽️](https://www.youtube.com/watch?v=-dMl-SvQl4k) *Hack.lu'23*
 - [Fuzzing ntop 🖥️](Confs/ntopconf-2023/ntopconf-2023-fuzzing-ntop-rmori.pdf) *ntopconf'23*
 - [Emulation de périphérique USB-ETH pour l’audit IoT/Automotive 🖥️](Confs/Barbhack23/Barbhack_2023_QB_Emulation_USB-ETH.pdf) *BarbHack'23*
 - [Introduction au CarHacking Comment construire sa “Car-in-a-box” 🖥️](Confs/Barbhack23/Barbhack_2023_Workshop_Car_in_a_Box.pdf) *BarbHack'23*
 - [Map your Firmware! 🖥️](Confs/PTS23/PTS2023-Talk-14-Pyrrha-map-your-firmware.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-map-your-firmware/) *PTS'23*
 - [For Science! - Using an Unimpressive Bug in EDK II To Do Some Fun Exploitation 🖥️](Confs/PTS23/PTS2023-Talk-03-EDK2.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-for-science-using-an-unimpressive-bug-in-edk-ii-to-do-some-fun-exploitation/) *PTS'23*
 - [Vulnerabilities in the TPM 2.0 reference implementation code 🖥️](Confs/PTS23/PTS2023-Talk-01-Vuln-in-TPM2-reference-implementation.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-vulnerabilities-in-the-tpm-20-reference-implementation-code/) *PTS'23*
-- [Parasitizing servers for fun and profit 🖥️](Confs/LeHack23/cauquil-Parasitizing_servers_for_fun_and_profit.pdf) *Le HACK'23*
-- [Vulnerabilities in the TPM 2.0 Reference Implementation Code 🖥️](Confs/Troopers23/Troopers-Falcon-VulnerabilitiesintheTPMReferenceImplementationCode.pdf) *Troopers'23*
+- [Parasitizing servers for fun and profit 🖥️](Confs/LeHack23/cauquil-Parasitizing_servers_for_fun_and_profit.pdf)[📽️](https://www.youtube.com/watch?v=3MXz4e4Qat0) *Le HACK'23*
+- [Vulnerabilities in the TPM 2.0 Reference Implementation Code 🖥️](Confs/Troopers23/Troopers-Falcon-VulnerabilitiesintheTPMReferenceImplementationCode.pdf)[📽️](https://www.youtube.com/watch?v=GwK7YRT2V70) *Troopers'23*
 - [Google Apps Script 🖥️](Confs/ESE23/ESE_Google_Apps_Script-v1.0.pdf) *ESE'23*
 - [Who evaluates the evaluators ? 🖥️](Confs/WRACH2023/WRACH2023-who-evaluates-evaluators-slides-mvideau.pdf) *WRACH'23*
-- [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf) *Recon'23*
+- [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Recon23/Recon23-Android-FBE-mrossibellom-dmelotti.pdf)[📽️](https://www.youtube.com/watch?v=unRFQhkK1DE) *Recon'23*
 - [Trace-based approach to compiler debugging 🖥️](Confs/GDRGPL23/pres.pdf) *GDR GPL National Days'23*
 - [Exploring OpenSSL Engines to Smash Cryptography 🖥️](Confs/SSTIC23/SSTIC2023-Slides-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf)[📜](Confs/SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf)[📽️](https://static.sstic.org/videos2023/1080p/exploring_openssl_engines_to_smash_cryptography.mp4) *SSTIC'23* 
 - [peetch: an eBPF based Networking Tool 🖥️](Confs/SSTIC23/SSTIC2023-Slides-peetch-valadon.pdf)[📽️](https://static.sstic.org/videos2023/1080p/peetch.mp4) *SSTIC'23* 
