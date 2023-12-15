@@ -20,7 +20,7 @@
 ### 2023
 
 - [Google Apps Script 🖥️](confs/GreHack23/GreHack2023_Google_Apps_Script-v1.0.pptx)[📽️](https://www.youtube.com/watch?v=mHJ1xjH-pq0) *GreHack'23*
-- [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Hardweario-NL-2023/HWIO23-Android-FBE-mrossibellom-dmelotti.pdf) *Hardwear.io NL'23*
+- [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Hardweario-NL-2023/HWIO23-Android-FBE-mrossibellom-dmelotti.pdf)[📽️](https://www.youtube.com/watch?v=I7_8OMcWPHg) *Hardwear.io NL'23*
 - [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Hardweario-NL-2023/2023-11-03-hwio_nl-gecko_bootloader-madsquirrel.pdf)[📽️](https://www.youtube.com/watch?v=WgXw6GgYz78) *Hardwear.io NL'23*
 - [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Ekoparty2023/2023-11-03-ekoparty-gecko_bootloader-fenrisfulsur.pdf)[📽️](https://www.youtube.com/watch?v=bWO9pIWd_Ok) *Ekoparty 2023*
 - [On the All UR are to be considered harmful for fun and profit is the new cool trick, hackers hate it. Redux. 🖥️](Confs/Ekoparty2023/2023-11-01-ekoparty-keynote-iarce.pdf)[📽️](https://www.youtube.com/watch?v=YIcW7hnhBBE) *Ekoparty 2023*
