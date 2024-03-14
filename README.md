@@ -2,6 +2,7 @@
 
 - [Quarkslab Publications](#quarkslab-publications)
   - [Conference Papers / Presentations](#conference-papers--presentations)
+    - [2024](#2024)
     - [2023](#2023)
     - [2022](#2022)
     - [2021](#2021)
@@ -16,6 +17,11 @@
   - [Hardware CTFs](#hardware-ctfs)
 
 ## Conference Papers / Presentations
+
+### 2024
+
+- [Spyware for Rent 🖥️](confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf) *NullCon'24*
+
 
 ### 2023
 
