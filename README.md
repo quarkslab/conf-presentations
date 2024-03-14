@@ -20,12 +20,12 @@
 
 ### 2024
 
-- [Spyware for Rent 🖥️](confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf) *NullCon'24*
+- [Spyware for Rent 🖥️](Confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf) *NullCon'24*
 
 
 ### 2023
 
-- [Google Apps Script 🖥️](confs/GreHack23/GreHack2023_Google_Apps_Script-v1.0.pptx)[📽️](https://www.youtube.com/watch?v=mHJ1xjH-pq0) *GreHack'23*
+- [Google Apps Script 🖥️](Confs/GreHack23/GreHack2023_Google_Apps_Script-v1.0.pptx)[📽️](https://www.youtube.com/watch?v=mHJ1xjH-pq0) *GreHack'23*
 - [Dissecting the Modern Android Data Encryption Scheme 🖥️](Confs/Hardweario-NL-2023/HWIO23-Android-FBE-mrossibellom-dmelotti.pdf)[📽️](https://www.youtube.com/watch?v=I7_8OMcWPHg) *Hardwear.io NL'23*
 - [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Hardweario-NL-2023/2023-11-03-hwio_nl-gecko_bootloader-madsquirrel.pdf)[📽️](https://www.youtube.com/watch?v=WgXw6GgYz78) *Hardwear.io NL'23*
 - [Breaking Secure Boot on the Silicon Labs Gecko platform 🖥️](Confs/Ekoparty2023/2023-11-03-ekoparty-gecko_bootloader-fenrisfulsur.pdf)[📽️](https://www.youtube.com/watch?v=bWO9pIWd_Ok) *Ekoparty 2023*
