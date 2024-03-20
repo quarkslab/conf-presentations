@@ -100,6 +100,18 @@
 
 - [Old New Things: An examination of the Philips TriMedia architecture 🖥️](Confs/Troopers19/trimedia-research-nriva.pdf)[📽️](https://www.youtube.com/watch?v=FPoSzLHa7dY) *Troopers'19*
 - [Grey-box attacks, four years later 🖥️](Confs/WhibOx2019/WhibOx2019_greybox_attacks_4years_later_pteuwen.pdf) *WhibOx'19*
+- [DKOM 3.0: Hiding and Hooking with Windows Extension Hosts 📽️](https://vimeo.com/335166152) *Infiltrate'19*
+- [Contrôle de passes à grain fin pour l’obfuscation de code 🖥️](Confs/RencontreCommFrCompil2019/Obfuscation-quarkslab.pdf) *Treizième rencontre de la communauté française de compilation*
+- [Building a Virtual Machine obfuscation]() *Treizième rencontre de la communauté française de compilation*
+- [When C++ Zero-Cost Abstraction Fails: how-to Fix Your Computer 📽️](https://www.youtube.com/watch?v=EPI7dW5CUfc) *CPPCon'19*
+- [Fuzzing binaries using Dynamic Instrumentation 🖥️](Confs/5th-France-Japan-CyberWorkshop/19-Kyoto-Fuzzing_Binaries_using_Dynamic_Instrumentation - HERNAULT Paul.pdf) *French-Japan cybersecurity workshop'19* 
+- [Epona and the Obfuscation Paradox: Transparent for Users and Developers, a Pain for Reverser 📜](https://dl.acm.org/doi/10.1145/3338503.3357722) *SPRO'19*
+- [Du reverse engineering à l'ingénieurie logicielle](https://www.ossir.org/jssi/index/jssi-2019.shtml) *JSSI'19*
+- [Table-based whitebox techniques applied to lattice based cryptography: towards an asymmetric whitebox proposal? 🖥️](Confs/WRACH2019/2020-893.pdf) *WRACH'19*
+- [IDArling, la première plateforme de rencontre entre reversers 🖥️](Confs/SSTIC19/SSTIC2019-Slides-idarling_la_premiere_plateforme_de_rencontre_entre_reversers-adamski_guilbon.pdf)[📽️](https://www.sstic.org/2019/presentation/idarling_la_premiere_plateforme_de_rencontre_entre_reversers/) *SSTIC'19*
+- [Breaking Samsung's ARM TrustZone 🖥️](Confs/BlackHat-USA-19/us-19-Peterlin-Breaking-Samsungs-ARM-TrustZone.pdf) *BlackHat'19*
+- [Cryptographie et attaques matérielles : Application à la cryptographie en boîte blanche 🖥️](https://www.slideshare.net/JFays/191121-philippe-teuwen-cryptographie-et-attaques-materielles) *GeeksAnonymes'19*
+
 
 ### 2018
 
