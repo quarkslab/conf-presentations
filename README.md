@@ -22,8 +22,8 @@
 
 ### 2024
 
- - 2024-03: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/HSR2024/slides_HSR_2024_Diawara.pdf) at *HackSecuReims 2024*
- - 2024-03: [Spyware for Rent 🖥️](Confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf) at *NullCon 2024*
+ - 2024-03: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/HSR2024/slides_HSR_2024_Diawara.pdf) at *[HackSecuReims 2024](https://www.hacksecureims.eu/conferences.html)*
+ - 2024-03: [Spyware for Rent 🖥️](Confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf) at *[NullCon 2024](https://nullcon.net/berlin-2024/speaker-the-world-of-spyware-for-rent)*
 
 ### 2023
 
@@ -177,9 +177,10 @@
 ### 2015
 
  - 2015-09: [Some technical & scientific challenges I'd like to have working solutions for 🖥️](Confs/SAS15/15-09-sas.pdf) at *[SAS 2015](http://sas2015.inria.fr/)*
- - 2015-06: [Triton: Concolic Execution Framework 🖥️](Confs/SSTIC15/SSTIC2015_English_slide_detailed_version_Triton_Concolic_Execution_FrameWork_FSaudel_JSalwan.pdf)[📜](Confs/SSTIC15/SSTIC2015_French_Paper_Triton_Framework_dexecution_Concolique_FSaudel_JSalwan.pdf) at *SSTIC 2015*
- - 2015-03: [Dynamic Binary Analysis and Instrumentation Covering a function using a DSE approach 🖥️](Confs/StHack15/StHack2015_Dynamic_Behavior_Analysis_using_Binary_Instrumentation_Jonathan_Salwan.pdf) at *StHack 2015*
- - 2015-01: [Dynamic Binary Analysis and Instrumentation Covering a function using a DSE approach 🖥️](Confs/SecurityDay15/SecurityDay2015_dynamic_symbolic_execution_Jonathan_Salwan.pdf) at *Security Day 2015*
+ - 2015-06: [Triton: Concolic Execution Framework 🖥️](Confs/SSTIC15/SSTIC2015_English_slide_detailed_version_Triton_Concolic_Execution_FrameWork_FSaudel_JSalwan.pdf)[📜](Confs/SSTIC15/SSTIC2015_French_Paper_Triton_Framework_dexecution_Concolique_FSaudel_JSalwan.pdf) at *[SSTIC 2015](https://www.sstic.org/2015/programme/)*
+ - 2015-03: [Dynamic Binary Analysis and Instrumentation Covering a function using a DSE approach 🖥️](Confs/StHack15/StHack2015_Dynamic_Behavior_Analysis_using_Binary_Instrumentation_Jonathan_Salwan.pdf) at *[StHack 2015](https://web.archive.org/web/20150206054026/https://www.sthack.fr/)*
+ - 2015-01: [Dynamic Binary Analysis and Instrumentation Covering a function using a DSE approach 🖥️](Confs/SecurityDay15/SecurityDay2015_dynamic_symbolic_execution_Jonathan_Salwan.pdf)[📽️](https://webtv.univ-lille.fr/files/videos/2015/01/19/14216220009de34-480.mp4) at *[Security Day 2015](https://webtv.univ-lille.fr/video/7560/program-analysis-dynamic-binary-analysis-and-instrumentation)*
+ - 2015-01: [Keynote 📽️](https://webtv.univ-lille.fr/files/videos/2015/01/21/1421794800da971-480.mp4) at *[Security Day 2015](https://webtv.univ-lille.fr/video/7564/keynote-securityday)*
 
 ### 2013
 
