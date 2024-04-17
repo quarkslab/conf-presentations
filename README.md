@@ -115,7 +115,6 @@
 
 ### 2018
 
-- [QBDI - Implementing an LLVM based Dynamic Binary Instrumentation framework 🖥️](Confs/34C3-2018/QBDI_34c3-chubain-ctessier.pdf)[📽️](https://www.youtube.com/watch?v=Zt74lOuU6zc) *34C3'18*
 - [Automatizing vulnerability research 🖥️](Confs/Cisco18/18-cisco-auto-vuln-research.pdf) *CISCO'18*
 - [Symbolic deobfuscation: from virtualized code back to the original 🖥️](Confs/DIMVA18/DIMVA2018-deobfuscation-salwan-bardin-potet.pdf) *DIMVA'18*
 - [Vulnerability Research - What It Takes to Keep Going and Going and Going 🖥️](Confs/HITB18/D1T2%20-%20Vulnerability%20Research%20-%20What%20It%20Takes%20to%20Keep%20Going%20and%20Going%20and%20Going%20-%20Cedric%20Tessier%20Fred%20Raynal.pdf) *HITB'18*
@@ -125,6 +124,7 @@
 
 ### 2017
 
+- [QBDI - Implementing an LLVM based Dynamic Binary Instrumentation framework 🖥️](Confs/34C3-2017/QBDI_34c3-chubain-ctessier.pdf)[📽️](https://www.youtube.com/watch?v=Zt74lOuU6zc) *34C3'17*
 - [LIEF: Library to Instrument Executable Formats 🖥️](Confs/RMLL17/17-RMLL-LIEF-rthomas.pdf)[📽️](https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/2017/videos/RMLL-Sec-2017-lief_63569_720p.mp4) *RMLL'17*
 - [Playing with Binary Analysis: Deobfuscation of VM based software protection / Desobfuscation binaire : Reconstruction de fonctions virtualisées 🖥️](Confs/SSTIC17/SSTIC2017_Deobfuscation_of_VM_based_software_protection.pdf)[📽️](https://static.sstic.org/videos2017/SSTIC_2017-06-07_P08.mp4)[📜](Confs/SSTIC17/SSTIC2017-Article-desobfuscation_binaire_reconstruction_de_fonctions_virtualisees-salwan_potet_bardin.pdf) *SSTIC'17*
 
