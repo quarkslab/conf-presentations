@@ -20,6 +20,7 @@
 
 ### 2024
 
+- [PASTIS: Fuzzing tool competition 🖥️](Confs/SBFT-ICSE-24/SBFT-2024-pastis-tool.pdf) *SBFT 2024*
 - [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/HSR2024/slides_HSR_2024_Diawara.pdf) *HackSecuReims 2024*
 - [Spyware for Rent 🖥️](Confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf) *NullCon'24*
 
