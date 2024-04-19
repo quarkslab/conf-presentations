@@ -101,6 +101,7 @@
 
 ### 2020
 
+ - 2020-11: [Towards an assymetric white-box proposal 📜](Confs/JCC2020/2020_893.pdf) at *[Journées Codage & Cryptographie 2020](https://jc2-2020.inria.fr/programme/)*
  - 2020-11: [Participation au panel “RFID Hacking” 📽️](https://www.youtube.com/watch?v=OtbLdU0d3gM) at *[PACSEC 2020](https://web.archive.org/web/20201105070401/https://www.secwest.net/pacsec/rfid-security)*
  - 2020-10: [Dynamic Binary Instrumentation Techniques to Address Native Code Obfuscation 🖥️](Confs/BlackHat-Asia-20/asia-20-Thomas-Dynamic-Binary-Instrumentation-Techniques-to-Address-Native-Code-Obfuscation.pdf)[📜](Confs/BlackHat-Asia-20/asia-20-Thomas-Dynamic-Binary-Instrumentation-Techniques-to-Address-Native-Code-Obfuscation-wp.pdf)[📽️](https://www.youtube.com/watch?v=MRku-2fW42w) at *[Black Hat Asia 2020](https://www.blackhat.com/asia-20/briefings/schedule/index.html)*
  - 2020-09: [Anomalie de sécurité sur une JCard EAL6+ en marge d'1 CSPN inter-CESTI 📽️](https://www.youtube.com/watch?v=zo3WB7qRhGs) at *[webinaire de l'OSSIR](https://www.ossir.org/)*
