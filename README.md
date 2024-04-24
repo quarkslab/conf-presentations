@@ -25,6 +25,7 @@
  - 2024-04: [PASTIS: Fuzzing tool competition 🖥️](Confs/SBFT-ICSE-24/SBFT-2024-pastis-tool.pdf) at *[SBFT 2024](https://sbft24.github.io/program/)*
  - 2024-03: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/HSR2024/slides_HSR_2024_Diawara.pdf) at *[HackSecuReims 2024](https://www.hacksecureims.eu/conferences.html)*
  - 2024-03: [Spyware for Rent 🖥️](Confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf) at *[NullCon 2024](https://nullcon.net/berlin-2024/speaker-the-world-of-spyware-for-rent)*
+ - 2024-01: [FCSC Chaussette - A Triton showcase 🖥️](Confs/Ambrosia2024/2024-Ambrosia-FCSC-Chaussette-a-Triton-showcase.pdf) at *[Ambrosia 2024](https://esnhack.fr/articles/article?id=7)*
 
 ### 2023
 
