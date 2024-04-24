@@ -137,7 +137,7 @@
  - 2018-09: [C++ In the Elvenland 📽️](https://www.youtube.com/watch?v=CVg7CYVV3KI) at *[CppCon 2018](https://cppcon2018.sched.com/)*
  - 2018-09: [Easy::Jit : A Just-in-Time compilation library for C++ 🖥️](Confs/CPPCON18/cppcon18_easy_jit.pdf)[📽️](https://www.youtube.com/watch?v=_WPdof1dTqo) at *[CppCon 2018](https://cppcon2018.sched.com/)*
  - 2018-09: [Frozen Data Structures in C++14 📽️](https://www.youtube.com/watch?v=vA5sdxbwUG8) at *[CppCon 2018](https://cppcon2018.sched.com/)*
- - 2018-09: [Combining obfuscation and optimizations in the real world 🖥️](Confs/SCAM2018/scam_2018.pdf) at *[SCAM 2018](https://www.ieee-scam.org/2018/)*
+ - 2018-09: [Combining obfuscation and optimizations in the real world 📜](Confs/SCAM2018/scam_2018.pdf) at *[SCAM 2018](https://www.ieee-scam.org/2018/)*
  - 2018-08: [The Windows Notification Facility: Peeling the Onion of the Most Undocumented Kernel Attack Surface Yet 📽️](https://www.youtube.com/watch?v=MybmgE95weo) at *[Black Hat USA 2018](https://www.blackhat.com/us-18/briefings/schedule/index.html)*
  - 2018-07: [Quadratic Time Algorithm for Inversion of Binary Permutation Polynomials 📜](Confs/ICMS2018/inversion-z2n-lcns.pdf) at *[ICMS 2018](https://icms-conference.org/2018/sessions/session6/)*
  - 2018-07: [Static instrumentation based on executable file formats 🖥️](Confs/PTS18/PTS18-static-instrumentation-rthomas.pdf)[📽️](https://archives.pass-the-salt.org/Pass%20the%20SALT/2018/videos/PTS2018-03-static-instrumentation-based-on-executable-file-formats_2160p.mp4) at *[Pass the SALT 2018](https://2018.pass-the-salt.org/schedule/)*
