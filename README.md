@@ -76,6 +76,7 @@
  - 2022-07: [Mattermost End-to-End Encryption Plugin 🖥️](Confs/PTS22/PTS2022-Talk-01-Mattermost-e2ee-plugin.pdf)[📽️](https://archives.pass-the-salt.org/Pass%20the%20SALT/2022/videos/PTS2022-Talk-01-mattermost-end-to-end-encryption-plugin.mp4) at *[Pass the SALT 2022](https://cfp.pass-the-salt.org/pts2022/talk/KTMCGR/)*
  - 2022-06: [Attack on Titan M: Vulnerability Research on a Modern Security Chip 🖥️](Confs/Troopers22/Melotti-RossiBellom_TitanM.pdf)[📽️](https://www.youtube.com/watch?v=clhzUGcx47A) at *[Troopers 2022](https://troopers.de/troopers22/agenda/tr22-1081-attack-on-titan-m-vulnerability-research-on-a-modern-security-chip/)*
  - 2022-06: [So you hacked a WiFi router, and now what? 📽️](https://www.youtube.com/watch?v=bbZvIXU4laI) at *[LeHack 2022](https://2022.lehack.org/fr/planning/category_talk.html)*
+ - 2022-06: [Augmenter votre résistance aux malwares en recyclant vos vielles machines en stations blanches et plus si affinités 📽️](https://www.youtube.com/watch?v=WT4e48LF3mE) at *[FIC 2022](https://web.archive.org/web/20230323232415/https://2022.forum-fic.com/programme-2022/)*
  - 2022-06: [TPM is not the holy way 🖥️](Confs/SSTIC22/SSTIC2022-Slides-tpm_is_not_the_holy_way-forgette.pdf)[📜](Confs/SSTIC22/SSTIC2022-Article-tpm_is_not_the_holy_way-forgette.pdf)[📽️](https://static.sstic.org/videos2022/1080p/tpm_is_not_the_holy_way.mp4) at *[SSTIC 2022](https://www.sstic.org/2022/programme/)*
  - 2022-06: [Binbloom v2 - Ceci est une (r)evolution 🖥️](Confs/SSTIC22/sstic22-binbloom-v2.pdf)[📽️](https://static.sstic.org/videos2022/1080p/binbloom_v2.mp4) at *[SSTIC 2022](https://www.sstic.org/2022/programme/)*
  - 2022-05: [Hackers, Reprenez Le Contrôle Des Objets Connectés ! 📽️](https://vimeo.com/730352388) at *[Mixit 2022](https://mixitconf.org/2022/hackers-reprenez-le-controle-des-objets-connectes-)*
@@ -113,6 +114,7 @@
  - 2020-06: [Inter-CESTI: Methodological and Technical Feedbacks on Hardware Devices Evaluations 🖥️](Confs/SSTIC20/SSTIC2020-Slides-inter-cesti_methodological_and_technical_feedbacks_on_hardware_devices_evaluations-benadjila.pdf)[📜](Confs/SSTIC20/SSTIC2020-Article-inter-cesti_methodological_and_technical_feedbacks_on_hardware_devices_evaluations-benadjila.pdf)[📽️](https://static.sstic.org/videos2020/1080p/Inter-CESTI_Methodological_and_Technical_Feedbacks_on_Hardware_Devices_Evaluations.mp4) at *[SSTIC 2020](https://www.sstic.org/2020/programme/)*
  - 2020-06: [Fuzz and Profit with WHVP 🖥️](Confs/SSTIC20/AumaitreDamien_FuzzAndProfitWithWHVP_slides.pdf)[📜](Confs/SSTIC20/AumaitreDamien_FuzzAndProfitWithWHVP.pdf)[📽️](https://static.sstic.org/videos2020/1080p/FuzzAndProfitWithWHVP.mp4) at *[SSTIC 2020](https://www.sstic.org/2020/programme/)*
  - 2020-02: [QSynth - A Program Synthesis approach for Binary Code Deobfuscation 🖥️](Confs/BAR20/bar_slides.pdf)[📜](Confs/BAR20/bar2020-preprint9.pdf) at *[Binary Analysis Research (BAR) Workshop 2020](https://www.ndss-symposium.org/ndss-program/bar-workshop-2020/)*
+ - 2020-02: [Self-hosted server backups for the paranoid 📽️](https://video.fosdem.org/2020/UD2.119/borg.mp4) at *[FOSDEM 2020](https://archive.fosdem.org/2020/schedule/event/borg/)*
 
 ### 2019
 
@@ -171,6 +173,7 @@
  - 2016-12: [Practical Attacks Against White-Box Crypto Implementations 🖥️](Confs/SCR1-2016/2016_Rennes1_Practical_Attacks_Against_White-Box_Crypto_Implementations.pdf) at *[Séminaire de Cryptographie, Université de Rennes 1](https://webmath.univ-rennes1.fr/crypto/2017/PhilippeTeuwen_fr.html)*
  - 2016-11: [Arybo : Manipulation, Canonicalization and Identification of Mixed Boolean-Arithmetic Symbolic Expressions 📜](Confs/GreHack2016/hal-01390528.pdf)[📽️](https://www.youtube.com/watch?v=m-NCKJg8B_M) at *[GreHack 2016](https://grehack.fr/2016/program)*
  - 2016-11: [How Triton can help to reverse virtual machine based software protections 🖥️](Confs/CSAW16/csaw2016-sos-jsalwan-rthomas.pdf)[📽️](https://www.youtube.com/watch?v=Fk7bF94sy9U) at *[CSAW 2016](https://engineering.nyu.edu/events/2016/11/10/csaw-16)*
+ - 2016-11: [Ghost in the PLC: Designing an Undetectable Programmable Logic Controller Rootkit via Pin Control Attack 🖥️](Confs/BlackHat-Europe-16/eu-16-Abbasi-Ghost-In-The-PLC_compressed.pdf)[📜](Confs/BlackHat-Europe-16/eu-16-Abbasi-Ghost-In-The-PLC-paper.pdf)[📽️](https://www.youtube.com/watch?v=Z447UFZuLII) at *[Black Hat Europe 2016](https://www.blackhat.com/eu-16/briefings.html#ghost-in-the-plc-designing-an-undetectable-programmable-logic-controller-rootkit)*
  - 2016-10: [Defeating MBA-based Obfuscation 🖥️](Confs/SPRO2016/Defeating_MBA-based_Obfuscation.pdf)[📜](Confs/SPRO2016/2995306.2995308.pdf) at *[SPRO 2016](https://web.archive.org/web/20170626080416/https://aspire-fp7.eu/spro/workshop-programme/)*
  - 2016-10: [Binary Permutation Polynomial Inversion and Application to Obfuscation Techniques 📜](Confs/SPRO2016/2995306.2995310.pdf) at *[SPRO 2016](https://web.archive.org/web/20170626080416/https://aspire-fp7.eu/spro/workshop-programme/)*
  - 2016-10: [GAST, Daou Naer - AST pour Python 2 et 3 📽️](https://www.pycon.fr/2016/videos/gast-daou-naer-ast-pour-python-2-et-3.html) at *[PyConFR 2016](https://www.pycon.fr/2016/pages/programme.html)*
@@ -183,19 +186,32 @@
 
 ### 2015
 
+ - 2015-10: [Building, Testing and Debugging a Simple out-of-tree LLVM Pass 🖥️](Confs/LLVM-2015/GueltonGuinet-BuildingTestingDebuggingASimpleOutOfTreePass.pdf) at *[LLVM dev meeting](https://llvm.org/devmtg/2015-10/)*
  - 2015-09: [Some technical & scientific challenges I'd like to have working solutions for 🖥️](Confs/SAS15/15-09-sas.pdf) at *[SAS 2015](http://sas2015.inria.fr/)*
- - 2015-06: [Triton: Concolic Execution Framework 🖥️](Confs/SSTIC15/SSTIC2015_English_slide_detailed_version_Triton_Concolic_Execution_FrameWork_FSaudel_JSalwan.pdf)[📜](Confs/SSTIC15/SSTIC2015_French_Paper_Triton_Framework_dexecution_Concolique_FSaudel_JSalwan.pdf) at *[SSTIC 2015](https://www.sstic.org/2015/programme/)*
+ - 2015-06: [IRMA : Incident Response and Malware Analysis 🖥️](Confs/SSTIC15/SSTIC2015-Slides-irma_incident_response_and_malware_analysis.pdf)[📜](Confs/SSTIC15/SSTIC2015-Article-irma_incident_response_and_malware_analysis.pdf)[📽️](https://static.sstic.org/videos2015/SSTIC_2015-06-05_P06_IRMA.mp4) at *[SSTIC 2015](https://www.sstic.org/2015/programme/)*
+ - 2015-06: [Analyse de sécurité de technologies propriétaires SCADA 🖥️](Confs/SSTIC15/SSTIC2015-Slides-analyse_de_scurite_de_technologies_propritaires_scada.pdf)[📜](Confs/SSTIC15/SSTIC2015-Article-analyse_de_scurite_de_technologies_propritaires_scada.pdf)[📽️](https://static.sstic.org/videos2015/SSTIC_2015-06-04_P05_SCADA.mp4) at *[SSTIC 2015](https://www.sstic.org/2015/programme/)*
+ - 2015-06: [Triton: Concolic Execution Framework 🖥️](Confs/SSTIC15/SSTIC2015_English_slide_detailed_version_Triton_Concolic_Execution_FrameWork_FSaudel_JSalwan.pdf)[📜](Confs/SSTIC15/SSTIC2015_French_Paper_Triton_Framework_dexecution_Concolique_FSaudel_JSalwan.pdf)[📽️](https://static.sstic.org/videos2015/SSTIC_2015-06-03_P03_Triton.mp4) at *[SSTIC 2015](https://www.sstic.org/2015/programme/)*
  - 2015-03: [Dynamic Binary Analysis and Instrumentation Covering a function using a DSE approach 🖥️](Confs/StHack15/StHack2015_Dynamic_Behavior_Analysis_using_Binary_Instrumentation_Jonathan_Salwan.pdf) at *[StHack 2015](https://web.archive.org/web/20150206054026/https://www.sthack.fr/)*
  - 2015-01: [Dynamic Binary Analysis and Instrumentation Covering a function using a DSE approach 🖥️](Confs/SecurityDay15/SecurityDay2015_dynamic_symbolic_execution_Jonathan_Salwan.pdf)[📽️](https://webtv.univ-lille.fr/files/videos/2015/01/19/14216220009de34-480.mp4) at *[Security Day 2015](https://webtv.univ-lille.fr/video/7560/program-analysis-dynamic-binary-analysis-and-instrumentation)*
  - 2015-01: [Keynote 📽️](https://webtv.univ-lille.fr/files/videos/2015/01/21/1421794800da971-480.mp4) at *[Security Day 2015](https://webtv.univ-lille.fr/video/7564/keynote-securityday)*
 
+### 2014
+
+ - 2014-10: [USB Fuzzing : approaches and tools 🖥️](Confs/HackLu14/slides_USB_fuzzing.pdf) at *[Hack.lu 2014](https://web.archive.org/web/20141018085859/http://2014.hack.lu/index.php/Main_Page)*
+ - 2014-06: [Désobfuscation de DRM par attaques auxiliaires 🖥️](Confs/SSTIC14/SSTIC2014-Slides-dsobfuscation_de_drm_par_attaques_auxiliaires.pdf)[📜](Confs/SSTIC14/SSTIC2014-Article-dsobfuscation_de_drm_par_attaques_auxiliaires.pdf) at *[SSTIC 2014](https://www.sstic.org/2014/programme/)*
+ - 2014-06: [Obfuscation de code Python : amélioration des techniques existantes 🖥️](Confs/SSTIC14/SSTIC2014-Slides-obfuscation_de_code_python.pdf)[📜](Confs/SSTIC14/SSTIC2014-Article-obfuscation_de_code_python.pdf) at *[SSTIC 2014](https://www.sstic.org/2014/programme/)*
+ - 2014-06: [Reconnaissance réseau à grande échelle : port scan is not dead 📜](Confs/SSTIC14/SSTIC2014-Article-port_scan_is_not_dead.pdf) at *[SSTIC 2014](https://www.sstic.org/2014/programme/)*
+ - 2014-06: [Recherche de vulnérabilités dans les piles USB : approches et outils 🖥️](Confs/SSTIC14/SSTIC2014-Slides-recherche_de_vulnrabilits_dans_les_piles_usb.pdf)[📜](Confs/SSTIC14/SSTIC2014-Article-recherche_de_vulnrabilits_dans_les_piles_usb.pdf)[📽️](https://static.sstic.org/videos2014/SSTIC_2014-06-05_P02_Recherche_de_vulnerabilites_dans_les_piles_USB_approches_et_outils.mp4) at *[SSTIC 2014](https://www.sstic.org/2014/programme/)*
+
 ### 2013
 
+ - 2013-06: [Sécurité des applications Android constructeurs et réalisation de backdoors sans permission 🖥️](Confs/SSTIC13/SSTIC2013-Slides-securite_applications_android.pdf)[📜](Confs/SSTIC13/SSTIC2013-Article-securite_applications_android.pdf) at *[SSTIC 2013](https://www.sstic.org/2013/programme/)*
  - 2013-06: [UEFI and Dreamboot 🖥️](Confs/SSTIC13/D2T1-SebastienKaczmarek-Dreamboot_UEFI_Bootkit.pdf)[📜](Confs/SSTIC13/SSTIC2013-Article-dreamboot_et_uefi-kaczmarek.pdf) at *[SSTIC 2013](https://www.sstic.org/2013/programme/)*
 
 ### 2012
 
  - 2012-10: [Pwn@Home: An Attack Path to jailbreaking your home router 🖥️](Confs/HITB12/12-10-HTIB-router.pdf) at *[HITB 2012](https://archive.conference.hitb.org/hitbsecconf2012kul/)*
+ - 2012-06: [WinRT 🖥️](Confs/SSTIC12/SSTIC2012-Slides-WinRT.pdf)[📜](Confs/SSTIC12/SSTIC2012-Article-WinRT.pdf) at *[SSTIC 2012](https://www.sstic.org/2012/programme/)*
  - 2012-06: [10 ans de SSTIC 🖥️](Confs/SSTIC12/SSTIC-10ans-NF-FR-PB-FINAL.pdf) at *[SSTIC 2012](https://www.sstic.org/2012/programme/)*
 
 ## Hardware CTFs
