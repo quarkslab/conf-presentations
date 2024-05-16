@@ -133,7 +133,7 @@
 ### 2018
 
  - 2018-11: [ROPGenerator: practical automated ROP-Chain generation 📽️](https://www.youtube.com/watch?v=rz7Z9fBLVs0) at *[GreHack 2018](https://grehack.fr/2018/program)*
- - 2018-11: [Vulnerability Research - What It Takes to Keep Going and Going and Going 🖥️](Confs/HITB18/D1T2%20-%20Vulnerability%20Research%20-%20What%20It%20Takes%20to%20Keep%20Going%20and%20Going%20and%20Going%20-%20Cedric%20Tessier%20Fred%20Raynal.pdf) at *[HITB 2018](https://archive.conference.hitb.org/hitbsecconf2018pek/sessions/vulnerability-research-what-it-takes-to-keep-going-and-going-and-going/)*
+ - 2018-11: [Vulnerability Research - What It Takes to Keep Going and Going and Going 🖥️](Confs/HITB18/D1T2%20-%20Vulnerability%20Research%20-%20What%20It%20Takes%20to%20Keep%20Going%20and%20Going%20and%20Going%20-%20Cedric%20Tessier%20Fred%20Raynal.pdf) at *[HITB 2018 Beijing](https://archive.conference.hitb.org/hitbsecconf2018pek/sessions/vulnerability-research-what-it-takes-to-keep-going-and-going-and-going/)*
  - 2018-09: [AFL, QBDI And KSE Are on a Boat 📽️](https://www.youtube.com/watch?v=DjBVTRUPrJY) at *[Ekoparty 2018](https://web.archive.org/web/20180920114610/https://ekoparty.org/cronograma.php)*
  - 2018-09: [Old New Things: An Examinsation of the Philips TriMedia Architecture 📽️](https://www.youtube.com/watch?v=Ds1KtUBloEA) at *[Ekoparty 2018](https://web.archive.org/web/20180920114610/https://ekoparty.org/cronograma.php)*
  - 2018-09: [C++ In the Elvenland 📽️](https://www.youtube.com/watch?v=CVg7CYVV3KI) at *[CppCon 2018](https://cppcon2018.sched.com/)*
@@ -177,6 +177,7 @@
  - 2016-10: [Defeating MBA-based Obfuscation 🖥️](Confs/SPRO2016/Defeating_MBA-based_Obfuscation.pdf)[📜](Confs/SPRO2016/2995306.2995308.pdf) at *[SPRO 2016](https://web.archive.org/web/20170626080416/https://aspire-fp7.eu/spro/workshop-programme/)*
  - 2016-10: [Binary Permutation Polynomial Inversion and Application to Obfuscation Techniques 📜](Confs/SPRO2016/2995306.2995310.pdf) at *[SPRO 2016](https://web.archive.org/web/20170626080416/https://aspire-fp7.eu/spro/workshop-programme/)*
  - 2016-10: [GAST, Daou Naer - AST pour Python 2 et 3 📽️](https://www.pycon.fr/2016/videos/gast-daou-naer-ast-pour-python-2-et-3.html) at *[PyConFR 2016](https://www.pycon.fr/2016/pages/programme.html)*
+ - 2016-09: [C++ Costless Abstractions: the compiler view 🖥️](Confs/CppCon2016/C%2B%2B%20Costless%20Abstractions%20-%20the%20Compiler%20View%20-%20Serge%20Guelton%20-%20CppCon%202016.pdf)[📽️](https://www.youtube.com/watch?v=q0N9Tvf7Bz0) at *[CppCon 2016](https://cppcon2016.sched.com/)*
  - 2016-08: [Differential computation analysis: Hiding your white-box designs is not enough 🖥️](Confs/CHES2016/CHES2016_Session5_1.pdf)[📜](Confs/CHES2016/978-3-662-53140-2_11.pdf)[📽️](https://www.youtube.com/watch?v=Zuhapyo7qFQ) at *[CHES 2016](https://iacr.org/workshops/ches/ches2016/start.php)*
  - 2016-07: [Practical Attacks Against White-Box Crypto Implementations 🖥️](Confs/EcryptNet2016/2016_EcryptNet_Practical_Attacks_Against_White-Box_Crypto_Implementations.pdf) workshop  at *[ECRYPT-NET Workshop on Cryptography Design for the IoT](https://www.cosic.esat.kuleuven.be/ecrypt_net_iot_workshop_2016/program.shtml)*
  - 2016-06: [Design de cryptographie white-box : et a la fin, c'est Kerckhoffs qui gagne 🖥️](Confs/SSTIC16/SSTIC2016-Slides-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf)[📜](Confs/SSTIC16/SSTIC2016-Article-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf)[📽️](http://static.sstic.org/videos2016/SSTIC_2016-06-03_P05.mp4) at *[SSTIC 2016](https://www.sstic.org/2016/programme/)*
@@ -186,7 +187,7 @@
 
 ### 2015
 
- - 2015-10: [Building, Testing and Debugging a Simple out-of-tree LLVM Pass 🖥️](Confs/LLVM-2015/GueltonGuinet-BuildingTestingDebuggingASimpleOutOfTreePass.pdf) at *[LLVM dev meeting](https://llvm.org/devmtg/2015-10/)*
+ - 2015-10: [Building, Testing and Debugging a Simple out-of-tree LLVM Pass 🖥️](Confs/LLVM-2015/GueltonGuinet-BuildingTestingDebuggingASimpleOutOfTreePass.pdf)[📽️](https://www.youtube.com/watch?v=BnlG-owSVTk) at *[LLVM dev meeting](https://llvm.org/devmtg/2015-10/)*
  - 2015-09: [Some technical & scientific challenges I'd like to have working solutions for 🖥️](Confs/SAS15/15-09-sas.pdf) at *[SAS 2015](http://sas2015.inria.fr/)*
  - 2015-06: [IRMA : Incident Response and Malware Analysis 🖥️](Confs/SSTIC15/SSTIC2015-Slides-irma_incident_response_and_malware_analysis.pdf)[📜](Confs/SSTIC15/SSTIC2015-Article-irma_incident_response_and_malware_analysis.pdf)[📽️](https://static.sstic.org/videos2015/SSTIC_2015-06-05_P06_IRMA.mp4) at *[SSTIC 2015](https://www.sstic.org/2015/programme/)*
  - 2015-06: [Analyse de sécurité de technologies propriétaires SCADA 🖥️](Confs/SSTIC15/SSTIC2015-Slides-analyse_de_scurite_de_technologies_propritaires_scada.pdf)[📜](Confs/SSTIC15/SSTIC2015-Article-analyse_de_scurite_de_technologies_propritaires_scada.pdf)[📽️](https://static.sstic.org/videos2015/SSTIC_2015-06-04_P05_SCADA.mp4) at *[SSTIC 2015](https://www.sstic.org/2015/programme/)*
@@ -208,10 +209,12 @@
 
  - 2013-06: [Sécurité des applications Android constructeurs et réalisation de backdoors sans permission 🖥️](Confs/SSTIC13/SSTIC2013-Slides-securite_applications_android.pdf)[📜](Confs/SSTIC13/SSTIC2013-Article-securite_applications_android.pdf) at *[SSTIC 2013](https://www.sstic.org/2013/programme/)*
  - 2013-06: [UEFI and Dreamboot 🖥️](Confs/SSTIC13/D2T1-SebastienKaczmarek-Dreamboot_UEFI_Bootkit.pdf)[📜](Confs/SSTIC13/SSTIC2013-Article-dreamboot_et_uefi-kaczmarek.pdf) at *[SSTIC 2013](https://www.sstic.org/2013/programme/)*
+ - 2013-04: [Dreamboot - A UEFI Bootkit 📽️](https://www.youtube.com/watch?v=KvTUE5P-Yhs) at *[HITB 2013 Amsterdam](https://archive.conference.hitb.org/hitbsecconf2013ams/)*
 
 ### 2012
 
- - 2012-10: [Pwn@Home: An Attack Path to jailbreaking your home router 🖥️](Confs/HITB12/12-10-HTIB-router.pdf) at *[HITB 2012](https://archive.conference.hitb.org/hitbsecconf2012kul/)*
+ - 2012-10: [Pwn@Home: An Attack Path to jailbreaking your home router 🖥️](Confs/HITB12/12-10-HTIB-router.pdf) at *[HITB 2012 Kuala Lumpur](https://archive.conference.hitb.org/hitbsecconf2012kul/)*
+ - 2012-05: [WinRT: The Metro-politan Museum of Security 📽️](https://www.youtube.com/watch?v=XAqPdb2-T9w) at *[HITB 2012 Amsterdam](https://archive.conference.hitb.org/hitbsecconf2012ams/)*
  - 2012-06: [WinRT 🖥️](Confs/SSTIC12/SSTIC2012-Slides-WinRT.pdf)[📜](Confs/SSTIC12/SSTIC2012-Article-WinRT.pdf) at *[SSTIC 2012](https://www.sstic.org/2012/programme/)*
  - 2012-06: [10 ans de SSTIC 🖥️](Confs/SSTIC12/SSTIC-10ans-NF-FR-PB-FINAL.pdf) at *[SSTIC 2012](https://www.sstic.org/2012/programme/)*
 
