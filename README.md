@@ -22,8 +22,11 @@
 
 ### 2024
 
+ - 2024-05: [Numbat/Pyrrha: Naviguez facilement dans les binaires de votre système 🖥️](Confs/ESE24/slides.pdf) at *[ESIEA Secure Edition 2024](https://ese.esiea.fr/)*
+ - 2024-05: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/StHack24/slides_sthack_2024_v1.8.pdf) at *[StHack 2024](https://www.sthack.fr/)*
  - 2024-04: [PASTIS: Fuzzing tool competition 🖥️](Confs/SBFT-ICSE-24/SBFT-2024-pastis-tool.pdf) at *[SBFT 2024](https://sbft24.github.io/program/)*
  - 2024-03: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/HSR2024/slides_HSR_2024_Diawara.pdf) at *[HackSecuReims 2024](https://www.hacksecureims.eu/conferences.html)*
+ - 2024-03: [How automatisation can improve firmware analysis? 🖥️](Confs/InCyber24/fic-24-firmware-analysis.pdf) at *[Forum InCyber 2024](https://fic.app.swapcard.com/widget/event/forum-incyber-2024/planning/UGxhbm5pbmdfMTgxMjc2Mw==)*
  - 2024-03: [Spyware for Rent 🖥️](Confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf) at *[NullCon 2024](https://nullcon.net/berlin-2024/speaker-the-world-of-spyware-for-rent)*
  - 2024-01: [FCSC Chaussette - A Triton showcase 🖥️](Confs/Ambrosia2024/2024-Ambrosia-FCSC-Chaussette-a-Triton-showcase.pdf) at *[Ambrosia 2024](https://esnhack.fr/articles/article?id=7)*
 
@@ -221,17 +224,18 @@
 ## Hardware CTFs
 
 
- - 2023-11: [Hardware CTF v6 🖥️](HardwareCTF/202311_v6_hardweario_nl.pdf) at *[Hardwear.io NL 2023](https://hardwear.io/netherlands-2023/ctf.php)*
- - 2023-06: [Hardware CTF v5 🖥️](HardwareCTF/202306_v5_hardweario_usa.pdf) at *[Hardwear.io USA 2023](https://hardwear.io/usa-2023/ctf.php)*
- - 2022-10: [Hardware CTF v5 🖥️](HardwareCTF/202210_v5_hardweario_nl.pdf) at *[Hardwear.io NL 2022](https://hardwear.io/netherlands-2022/ctf.php)*
- - 2022-09: [Hardware CTF v4 🖥️](HardwareCTF/202209_v4_nullcon.pdf) at *Nullcon Goa 2022*
- - 2022-06: [Hardware CTF v4 🖥️](HardwareCTF/202206_v4_hardweario_usa.pdf) at *[Hardwear.io USA 2022](https://hardwear.io/usa-2022/ctf.php)*
- - 2021-10: [Hardware CTF v4 🖥️](HardwareCTF/202110_v4_hardweario_nl.pdf) at *[Hardwear.io NL 2021](https://hardwear.io/netherlands-2021/ctf.php)*
- - 2020-03: [Hardware CTF v3 🖥️](HardwareCTF/202003_v3_nullcon.pdf) at *Nullcon Goa 2020*
- - 2019-09: [Hardware CTF v3 🖥️](HardwareCTF/201909_v3_hardweario_nl.pdf) at *[Hardwear.io NL 2019](https://hardwear.io/netherlands-2019/ctf.php)*
- - 2019-06: [Hardware CTF v2 🖥️](HardwareCTF/201906_v2_hardweario_usa.pdf) at *[Hardwear.io USA 2019](https://hardwear.io/usa-2019/ctf.php)*
- - 2019-03: Hardware CTF v2 at *Nullcon Goa 2019*
- - 2018-09: [Hardware CTF v2 🖥️](HardwareCTF/201809_v2_hardweario_nl.pdf) at *[Hardwear.io NL 2018](https://hardwear.io/the-hague-2018/ctf.php)*
- - 2018-04: Hardware CTF v1 at *[HITB Amsterdam 2018](https://conference.hitb.org/hitbsecconf2018ams/commsec-village/)*
- - 2018-03: Hardware CTF v1 at *[Nullcon Goa 2018](https://nullcon.net/website/goa-2018/ctf.php)*
- - 2017-09: [Hardware CTF v1 🖥️](HardwareCTF/201709_v1_hardweario_nl.pdf) at *[Hardwear.io NL 2017](https://hardwear.io/the-hague-2017/ctf.php)*
+ - 2024-05: [Hardware CTF v6 🖥️](HardwareCTF/202405_v6_hardweario_usa.pdf) at *[Hardwear.io USA 2024](https://hardwear.io/usa-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2400).
+ - 2023-11: [Hardware CTF v6 🖥️](HardwareCTF/202311_v6_hardweario_nl.pdf) at *[Hardwear.io NL 2023](https://hardwear.io/netherlands-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2176).
+ - 2023-06: [Hardware CTF v5 🖥️](HardwareCTF/202306_v5_hardweario_usa.pdf) at *[Hardwear.io USA 2023](https://hardwear.io/usa-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2183).
+ - 2022-10: [Hardware CTF v5 🖥️](HardwareCTF/202210_v5_hardweario_nl.pdf) at *[Hardwear.io NL 2022](https://hardwear.io/netherlands-2022/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2184).
+ - 2022-09: [Hardware CTF v4 🖥️](HardwareCTF/202209_v4_nullcon.pdf) at *Nullcon Goa 2022*. Results on [CTFtime](https://ctftime.org/event/2185).
+ - 2022-06: [Hardware CTF v4 🖥️](HardwareCTF/202206_v4_hardweario_usa.pdf) at *[Hardwear.io USA 2022](https://hardwear.io/usa-2022/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2186).
+ - 2021-10: [Hardware CTF v4 🖥️](HardwareCTF/202110_v4_hardweario_nl.pdf) at *[Hardwear.io NL 2021](https://hardwear.io/netherlands-2021/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2187).
+ - 2020-03: [Hardware CTF v3 🖥️](HardwareCTF/202003_v3_nullcon.pdf) at *Nullcon Goa 2020*. Results on [CTFtime](https://ctftime.org/event/2188).
+ - 2019-09: [Hardware CTF v3 🖥️](HardwareCTF/201909_v3_hardweario_nl.pdf) at *[Hardwear.io NL 2019](https://hardwear.io/netherlands-2019/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2189).
+ - 2019-06: [Hardware CTF v2 🖥️](HardwareCTF/201906_v2_hardweario_usa.pdf) at *[Hardwear.io USA 2019](https://hardwear.io/usa-2019/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2190).
+ - 2019-03: Hardware CTF v2 at *Nullcon Goa 2019*. Results on [CTFtime](https://ctftime.org/event/2191).
+ - 2018-09: [Hardware CTF v2 🖥️](HardwareCTF/201809_v2_hardweario_nl.pdf) at *[Hardwear.io NL 2018](https://hardwear.io/the-hague-2018/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2192).
+ - 2018-04: Hardware CTF v1 at *[HITB Amsterdam 2018](https://conference.hitb.org/hitbsecconf2018ams/commsec-village/)*. Results on [CTFtime](https://ctftime.org/event/2193).
+ - 2018-03: Hardware CTF v1 at *[Nullcon Goa 2018](https://nullcon.net/website/goa-2018/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2194).
+ - 2017-09: [Hardware CTF v1 🖥️](HardwareCTF/201709_v1_hardweario_nl.pdf) at *[Hardwear.io NL 2017](https://hardwear.io/the-hague-2017/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2195).
