@@ -24,6 +24,7 @@
 
  - 2024-05: [Numbat/Pyrrha: Naviguez facilement dans les binaires de votre système 🖥️](Confs/ESE24/slides.pdf) at *[ESIEA Secure Edition 2024](https://ese.esiea.fr/)*
  - 2024-05: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/StHack24/slides_sthack_2024_v1.8.pdf) at *[StHack 2024](https://www.sthack.fr/)*
+ - 2024-05: [Attacking the Samsung Galaxy A * Boot Chain 📽️](https://www.youtube.com/watch?v=WJ7wkJn7l7w) at *[OffensiveCon 2024](https://www.offensivecon.org/agenda/)*
  - 2024-04: [PASTIS: Fuzzing tool competition 🖥️](Confs/SBFT-ICSE-24/SBFT-2024-pastis-tool.pdf) at *[SBFT 2024](https://sbft24.github.io/program/)*
  - 2024-03: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/HSR2024/slides_HSR_2024_Diawara.pdf) at *[HackSecuReims 2024](https://www.hacksecureims.eu/conferences.html)*
  - 2024-03: [How automatisation can improve firmware analysis? 🖥️](Confs/InCyber24/fic-24-firmware-analysis.pdf) at *[Forum InCyber 2024](https://fic.app.swapcard.com/widget/event/forum-incyber-2024/planning/UGxhbm5pbmdfMTgxMjc2Mw==)*
