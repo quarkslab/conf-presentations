@@ -22,6 +22,7 @@
 
 ### 2024
 
+ - 2024-08: [Attacking Samsung Galaxy A * Boot Chain, and Beyond 🖥️](Confs/BlackHat-USA-24/BH USA 2024_ Attacking Samsung.pdf) at *[Black Hat USA 2024](https://www.blackhat.com/us-24/briefings/schedule/index.html#attacking-samsung-galaxy-a-boot-chain-and-beyond-38526)*
  - 2024-07: [Prism, a light BEAM disassembler 🖥️](Confs/LeHack24/lehack24-dcauquil-prism-light-beam-disassembler.pdf) at *[LeHack 2024](https://lehack.org/)*
  - 2024-07: [Analysing malicious documents and files with oletools 🖥️](Confs/PTS24/PTS2024-TALK-19-oletools.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2024-analysing-malicious-documents-and-files-with-oletools/) at *[Pass the SALT 2024](https://cfp.pass-the-salt.org/pts2024/schedule/#)*
  - 2024-07: [Rump: Passbolt: a bold use of HaveIBeenPwned 🖥️](Confs/PTS24/PTS2024-RUMP-14_Passbolt_Teuwen.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2024-rump-14-passbolt-a-bold-use-of-haveibeenpwned/) at *[Pass the SALT 2024](https://cfp.pass-the-salt.org/pts2024/schedule/#)*
@@ -38,12 +39,12 @@
  - 2024-06: [Testez vos primitives cryptographiques avec crypto-condor 🖥️](Confs/SSTIC24/SSTIC2024-Slides-testez_vos_primitives_cryptographiques_avec_crypto_condor-bossuat_goudarzi_loayza-meneses.pdf)[📽️](https://static.sstic.org/videos2024/1080p/testez_vos_primitives_cryptographiques_avec_crypto_condor.mp4) at *[SSTIC 2024](https://www.sstic.org/2024/programme/)*
  - 2024-05: [Numbat/Pyrrha: Naviguez facilement dans les binaires de votre système 🖥️](Confs/ESE24/slides.pdf) at *[ESIEA Secure Edition 2024](https://ese.esiea.fr/)*
  - 2024-05: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/StHack24/slides_sthack_2024_v1.8.pdf) at *[StHack 2024](https://www.sthack.fr/)*
- - 2024-05: [Attacking the Samsung Galaxy A * Boot Chain 🖥️](Confs/OffensiveCon24/AttackingSamsung.pdf)[📽️](https://www.youtube.com/watch?v=WJ7wkJn7l7w) at *[OffensiveCon 2024](https://www.offensivecon.org/agenda/)*
+ - 2024-05: [Attacking the Samsung Galaxy A * Boot Chain 🖥️](Confs/OffensiveCon24/AttackingSamsung.pdf)[📽️](https://www.youtube.com/watch?v=WJ7wkJn7l7w) at *[OffensiveCon 2024](https://www.offensivecon.org/agenda/2024.html)*
  - 2024-04: [PASTIS: Fuzzing tool competition 🖥️](Confs/SBFT-ICSE-24/SBFT-2024-pastis-tool.pdf) at *[SBFT 2024](https://sbft24.github.io/program/)*
  - 2024-03: [Finding low-hanging fruits vulnerabilities in a commercial antivirus 🖥️](Confs/HSR2024/slides_HSR_2024_Diawara.pdf) at *[HackSecuReims 2024](https://www.hacksecureims.eu/conferences.html)*
  - 2024-03: [How automatisation can improve firmware analysis? 🖥️](Confs/InCyber24/fic-24-firmware-analysis.pdf) at *[Forum InCyber 2024](https://fic.app.swapcard.com/widget/event/forum-incyber-2024/planning/UGxhbm5pbmdfMTgxMjc2Mw==)*
  - 2024-03: [Spyware for Rent 🖥️](Confs/NullCon2024/24-03-15-Nullcon-Spyware-to-rent.pdf)[📽️](https://www.youtube.com/watch?v=D-nT0Uojr1s) at *[NullCon 2024](https://nullcon.net/berlin-2024/speaker-the-world-of-spyware-for-rent)*
- - 2024-01: [FCSC Chaussette - A Triton showcase 🖥️](Confs/Ambrosia2024/2024-Ambrosia-FCSC-Chaussette-a-Triton-showcase.pdf) at *[Ambrosia 2024](https://esnhack.fr/articles/article?id=7)*
+ - 2024-01: [FCSC Chaussette - A Triton showcase 🖥️](Confs/Ambrosia2024/2024-Ambrosia-FCSC-Chaussette-a-Triton-showcase.pdf) at *[Ambrosia 2024](https://web.archive.org/web/20240304004251/https://esnhack.fr/articles/article?id=7)*
 
 ### 2023
 
@@ -55,7 +56,6 @@
  - 2023-10: [Intel SGX assessment methodology 🖥️](Confs/AzureConfidentialComputing/AzureConfidentialComputing-IntelSGX-BlindAI-audit.pdf) at *[Azure Confidential Computing 2023](https://msevents.microsoft.com/event?id=4051068126)*
  - 2023-10: [Pyrrha: navigate easily into your system binaries 🖥️](Confs/HackLu23/pyrrha.pdf)[📽️](https://www.youtube.com/watch?v=-dMl-SvQl4k) at *[Hack.lu 2023](https://pretalx.com/hack-lu-2023/talk/WVFPNK/)*
  - 2023-09: [Fuzzing ntop 🖥️](Confs/ntopconf-2023/ntopconf-2023-fuzzing-ntop-rmori.pdf)[📽️](https://www.youtube.com/watch?v=ryEY4oslFK0) at *[ntopconf 2023](https://www.ntop.org/ntopconf2023/)*
- - 2023-09: [Binary Reverse-Engineering and Batch Binary-Diffing 🖥️](Confs/Barbhack23/Barbhack_2023_Workshop_Car_in_a_Box.pdf) workshop  at *[BalCCon 2023](https://cfp.balccon.org/balccon2k23/talk/LCTK3X/)*
  - 2023-08: [Introduction au CarHacking Comment construire sa “Car-in-a-box” 🖥️](Confs/Barbhack23/Barbhack_2023_Workshop_Car_in_a_Box.pdf) workshop  at *[Barbhack 2023](https://www.barbhack.fr/2023/en/conferences.html)*
  - 2023-08: [Emulation de périphérique USB-ETH pour l'audit IoT/Automotive 🖥️](Confs/Barbhack23/Barbhack_2023_QB_Emulation_USB-ETH.pdf) at *[Barbhack 2023](https://www.barbhack.fr/2023/en/conferences.html)*
  - 2023-07: [Map your Firmware! 🖥️](Confs/PTS23/PTS2023-Talk-14-Pyrrha-map-your-firmware.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2023-map-your-firmware/) at *[Pass the SALT 2023](https://cfp.pass-the-salt.org/pts2023/talk/9H8FH3/)*
@@ -169,6 +169,12 @@
  - 2018-04: [DragonFFI: Foreign Function Interface and JIT using Clang/LLVM 🖥️](Confs/EuroLLVM2018/Guinet-DragonFFI.pdf)[📽️](https://www.youtube.com/watch?v=FaMhK9vHPvc) at *[Euro LLVM dev meeting](https://llvm.org/devmtg/2018-04/)*
  - 2018-04: [Automatizing vulnerability research to better face new software security challenges 🖥️](Confs/Cisco18/18-cisco-auto-vuln-research.pdf) at *[Cisco Innovation & Research Symposium 2018](https://www.cisco.com/c/m/fr_fr/training-events/events/2018/innovation-and-research-symposium/index.html)*
  - 2018-02: [Surviving in an Open Source Niche: the Pythran case 📽️](https://www.youtube.com/watch?v=MVveijGchTU) at *[FOSDEM 2018](https://archive.fosdem.org/2018/schedule/event/pythran/)*
+
+### 2017
+
+
+### 2018
+
  - 2018-02: [Literate Programming meets LLVM Passes 📽️](https://www.youtube.com/watch?v=N1md7_atQ9M) at *[FOSDEM 2018](https://archive.fosdem.org/2018/schedule/event/literate/)*
  - 2018-02: [Easy::jit : just-in-time compilation for C++ 🖥️](Confs/FOSDEM2018/easy_jit_fosdem.pdf)[📽️](https://www.youtube.com/watch?v=5_rydTiB32I) at *[FOSDEM 2018](https://archive.fosdem.org/2018/schedule/event/easyjit/)*
  - 2018-02: [DragonFFI Foreign Function Interface and JIT using Clang/LLVM 🖥️](Confs/FOSDEM2018/18_02_04_fosdem.tar.bz2)[📽️](https://www.youtube.com/watch?v=qZtS4EcUMtc) at *[FOSDEM 2018](https://archive.fosdem.org/2018/schedule/event/dragonffi/)*
