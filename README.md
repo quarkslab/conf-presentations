@@ -22,7 +22,7 @@
 
 ### 2024
 
- - 2024-08: [Attacking Samsung Galaxy A * Boot Chain, and Beyond 🖥️](Confs/BlackHat-USA-24/BH USA 2024_ Attacking Samsung.pdf) at *[Black Hat USA 2024](https://www.blackhat.com/us-24/briefings/schedule/index.html#attacking-samsung-galaxy-a-boot-chain-and-beyond-38526)*
+ - 2024-08: [Attacking Samsung Galaxy A * Boot Chain, and Beyond 🖥️](Confs/BlackHat-USA-24/BH-USA-2024_Attacking-Samsung.pdf) at *[Black Hat USA 2024](https://www.blackhat.com/us-24/briefings/schedule/index.html#attacking-samsung-galaxy-a-boot-chain-and-beyond-38526)*
  - 2024-07: [Prism, a light BEAM disassembler 🖥️](Confs/LeHack24/lehack24-dcauquil-prism-light-beam-disassembler.pdf) at *[LeHack 2024](https://lehack.org/)*
  - 2024-07: [Analysing malicious documents and files with oletools 🖥️](Confs/PTS24/PTS2024-TALK-19-oletools.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2024-analysing-malicious-documents-and-files-with-oletools/) at *[Pass the SALT 2024](https://cfp.pass-the-salt.org/pts2024/schedule/#)*
  - 2024-07: [Rump: Passbolt: a bold use of HaveIBeenPwned 🖥️](Confs/PTS24/PTS2024-RUMP-14_Passbolt_Teuwen.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2024-rump-14-passbolt-a-bold-use-of-haveibeenpwned/) at *[Pass the SALT 2024](https://cfp.pass-the-salt.org/pts2024/schedule/#)*
