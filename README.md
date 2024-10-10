@@ -23,7 +23,7 @@
 ### 2024
 
  - 2024-08: [De 'branch' en 'branch' : récupération d'un FW d'ECU sur une mémoire FAT 'nettoyée' 🖥️](Confs/Barbhack24/Barbhack_2024_De_branch_en_branch.pdf) at *[Barbhack 2024](https://www.barbhack.fr/2024/en/)*
- - 2024-08: [One for all and all for WHAD: wireless shenanigans made easy ! 🖥️](Confs/DefCon2024/dc32-cauquil-cayre-One_for_all_and_all_for_whad-v4.pdf) at *[DEF CON 32](https://defcon.org/html/defcon-32/dc-32-speakers.html#54472)*
+ - 2024-08: [One for all and all for WHAD: wireless shenanigans made easy ! 🖥️](Confs/DefCon2024/dc32-cauquil-cayre-One_for_all_and_all_for_whad-v4.pdf)[📽️](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20video%20and%20slides/DEF%20CON%2032%20-%20One%20for%20All%20-%20and%20All%20for%20WHAD%20-%20wireless%20shenanigans%20made%20easy%20-%20Romain%20Cayre%2C%20Damien%20Cauquil.mp4) at *[DEF CON 32](https://defcon.org/html/defcon-32/dc-32-speakers.html#54472)*
  - 2024-08: [Attacking Samsung Galaxy A * Boot Chain, and Beyond 🖥️](Confs/BlackHat-USA-24/BH-USA-2024_Attacking-Samsung.pdf) at *[Black Hat USA 2024](https://www.blackhat.com/us-24/briefings/schedule/index.html#attacking-samsung-galaxy-a-boot-chain-and-beyond-38526)*
  - 2024-07: [Prism, a light BEAM disassembler 🖥️](Confs/LeHack24/lehack24-dcauquil-prism-light-beam-disassembler.pdf) at *[LeHack 2024](https://lehack.org/)*
  - 2024-07: [Analysing malicious documents and files with oletools 🖥️](Confs/PTS24/PTS2024-TALK-19-oletools.pdf)[📽️](https://passthesalt.ubicast.tv/videos/2024-analysing-malicious-documents-and-files-with-oletools/) at *[Pass the SALT 2024](https://cfp.pass-the-salt.org/pts2024/schedule/#)*
