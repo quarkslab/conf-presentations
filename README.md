@@ -256,7 +256,7 @@
 ## Hardware CTFs
 
 
- - 2024-10: [Hardware CTF v7 🖥️](HardwareCTF/202410_v7_hardweario_nl.pdf) at *[Hardwear.io NL](https://hardwear.io/netherlands-2024/ctf.php)*
+ - 2024-10: [Hardware CTF v7 🖥️](HardwareCTF/202410_v7_hardweario_nl.pdf) at *[Hardwear.io NL](https://hardwear.io/netherlands-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2561).
  - 2024-05: [Hardware CTF v6 🖥️](HardwareCTF/202405_v6_hardweario_usa.pdf) at *[Hardwear.io USA 2024](https://hardwear.io/usa-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2400).
  - 2023-11: [Hardware CTF v6 🖥️](HardwareCTF/202311_v6_hardweario_nl.pdf) at *[Hardwear.io NL 2023](https://hardwear.io/netherlands-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2176).
  - 2023-06: [Hardware CTF v5 🖥️](HardwareCTF/202306_v5_hardweario_usa.pdf) at *[Hardwear.io USA 2023](https://hardwear.io/usa-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2183).
