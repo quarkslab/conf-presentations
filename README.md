@@ -22,6 +22,7 @@
 
 ### 2024
 
+ - 2024-11: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant... and a few hardware backdoors 🖥️](Confs/C%26ESAR-2024/2024-11-21-mifare-pteuwen-ecw-cesar.pdf) at *[C&ESAR 2024 by DGA](https://2024.cesar-conference.org/detailed-program/)*
  - 2024-11: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant 🖥️](Confs/GreHack2024/2024-11-15-mifare-pteuwen-grehack.pdf) at *[Grehack 2024](https://grehack.fr/)*
  - 2024-10: [Bluetooth Low Energy GATT Fuzzing: from specification to implementation 🖥️](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-bboyer.pdf)[📜](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-paper-bboyer.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
  - 2024-10: [MIFARE Classic: exposing the static encrypted nonce variant 🖥️](Confs/Hardweario-NL-2024/2024-10-24-mifare-pteuwen.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
