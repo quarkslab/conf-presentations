@@ -22,7 +22,7 @@
 
 ### 2024
 
- - 2024-11: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant... and a few hardware backdoors 🖥️](Confs/C%26ESAR-2024/2024-11-21-mifare-pteuwen-ecw-cesar.pdf) at *[C&ESAR 2024 by DGA](https://2024.cesar-conference.org/detailed-program/)*
+ - 2024-11: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant... and a few hardware backdoors 🖥️](Confs/C%26ESAR-2024/2024-11-21-mifare-pteuwen-ecw-cesar.pdf)[📜](https://2024.cesar-conference.org/program-media/CESAR-2024_keynote-MiFare.pdf)[📽️](https://2024.cesar-conference.org/program-media/CESAR-2024_6-2_keynote-MiFare.webm) at *[C&ESAR 2024 by DGA](https://2024.cesar-conference.org/detailed-program/)*
  - 2024-11: [Improving binary diffing through similarity and matching intricacies 🖥️](Confs/CAID-2024/CAID24_raffinement_diffing_binaire_slides.pdf)[📜](Confs/CAID-2024/CAID24_raffinement_diffing_binaire_paper.pdf) at *[CAID: Conference on Artificial Intelligence for Defense](https://caid-conference.eu)*
  - 2024-11: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant 🖥️](Confs/GreHack2024/2024-11-15-mifare-pteuwen-grehack.pdf) at *[Grehack 2024](https://grehack.fr/)*
  - 2024-10: [Bluetooth Low Energy GATT Fuzzing: from specification to implementation 🖥️](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-bboyer.pdf)[📜](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-paper-bboyer.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
