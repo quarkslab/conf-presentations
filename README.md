@@ -1,23 +1,11 @@
 
-# Quarkslab Publications
-  
-- [Quarkslab Publications](#quarkslab-publications)
-  - [Conference Papers / Presentations](#conference-papers--presentations)
-    - [2024](#2024)
-    - [2023](#2023)
-    - [2022](#2022)
-    - [2021](#2021)
-    - [2020](#2020)
-    - [2019](#2019)
-    - [2018](#2018)
-    - [2017](#2017)
-    - [2016](#2016)
-    - [2015](#2015)
-    - [2013](#2013)
-    - [2012](#2012)
-  - [Hardware CTFs](#hardware-ctfs)
+## Table of Contents
+- [Quarkslab Lectures at Conferences and Seminars](#quarkslab-lectures-at-conferences-and-seminars)
+- [Quarkslab Publications in Journals or Conference Proceedings and Preprints](#quarkslab-publications-in-journals-or-conference-proceedings-and-preprints)
+- [Quarkslab Publications in Specialized Magazines](#quarkslab-publications-in-specialized-magazines)
+- [Quarkslab Hardware CTFs](#quarkslab-hardware-ctfs)
 
-## Conference Papers / Presentations
+## Quarkslab Lectures at Conferences and Seminars
 
 
 ### 2024
@@ -177,12 +165,6 @@
  - 2018-04: [DragonFFI: Foreign Function Interface and JIT using Clang/LLVM 🖥️](Confs/EuroLLVM2018/Guinet-DragonFFI.pdf)[📽️](https://www.youtube.com/watch?v=FaMhK9vHPvc) at *[Euro LLVM dev meeting](https://llvm.org/devmtg/2018-04/)*
  - 2018-04: [Automatizing vulnerability research to better face new software security challenges 🖥️](Confs/Cisco18/18-cisco-auto-vuln-research.pdf) at *[Cisco Innovation & Research Symposium 2018](https://www.cisco.com/c/m/fr_fr/training-events/events/2018/innovation-and-research-symposium/index.html)*
  - 2018-02: [Surviving in an Open Source Niche: the Pythran case 📽️](https://www.youtube.com/watch?v=MVveijGchTU) at *[FOSDEM 2018](https://archive.fosdem.org/2018/schedule/event/pythran/)*
-
-### 2017
-
-
-### 2018
-
  - 2018-02: [Literate Programming meets LLVM Passes 📽️](https://www.youtube.com/watch?v=N1md7_atQ9M) at *[FOSDEM 2018](https://archive.fosdem.org/2018/schedule/event/literate/)*
  - 2018-02: [Easy::jit : just-in-time compilation for C++ 🖥️](Confs/FOSDEM2018/easy_jit_fosdem.pdf)[📽️](https://www.youtube.com/watch?v=5_rydTiB32I) at *[FOSDEM 2018](https://archive.fosdem.org/2018/schedule/event/easyjit/)*
  - 2018-02: [DragonFFI Foreign Function Interface and JIT using Clang/LLVM 🖥️](Confs/FOSDEM2018/18_02_04_fosdem.tar.bz2)[📽️](https://www.youtube.com/watch?v=qZtS4EcUMtc) at *[FOSDEM 2018](https://archive.fosdem.org/2018/schedule/event/dragonffi/)*
@@ -255,10 +237,128 @@
  - 2012-06: [WinRT 🖥️](Confs/SSTIC12/SSTIC2012-Slides-WinRT.pdf)[📜](Confs/SSTIC12/SSTIC2012-Article-WinRT.pdf) at *[SSTIC 2012](https://www.sstic.org/2012/programme/)*
  - 2012-06: [10 ans de SSTIC 🖥️](Confs/SSTIC12/SSTIC-10ans-NF-FR-PB-FINAL.pdf) at *[SSTIC 2012](https://www.sstic.org/2012/programme/)*
 
-## Hardware CTFs
+## Quarkslab Publications in Journals or Conference Proceedings and Preprints
 
 
- - 2024-10: [Hardware CTF v7 🖥️](HardwareCTF/202410_v7_hardweario_nl.pdf) at *[Hardwear.io NL](https://hardwear.io/netherlands-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2561).
+
+### 2024
+
+ - 2024-08: [MIFARE Classic: exposing the static encrypted nonce variant 📜](https://eprint.iacr.org/2024/1275.pdf)
+ - 2024-02: [Short Signatures from Regular Syndrome Decoding, Revisited 📜](https://eprint.iacr.org/2024/252.pdf)
+
+### 2023
+
+ - 2023-06: [Rétro-ingénierie et détournement de piles protocolaires embarquées, un cas d'étude sur le système ESP32 📜](Confs/SSTIC23/SSTIC2023-Article-reverse_de_piles_protocolaires_embarquees_esp32-cauquil_cayre_pGk3IkL.pdf)
+ - 2023-06: [Exploring OpenSSL Engines to Smash Cryptography 📜](Confs/SSTIC23/SSTIC2023-Article-exploring_openssl_engines_to_smash_cryptography-goudarzi_valadon.pdf)
+ - 2023-05: [ESPwn32: Hacking with ESP32 System-on-Chips 📜](Confs/WOOT-2023/woot23-paper22.pdf)
+ - 2023-05: [PASTIS - A Collaborative Approach to Combine Heterogeneous Software Testing Techniques 📜](Confs/SBTF-ICSE-2023/SBFT2023-PASTIS-paper-rdavid.pdf)
+
+### 2022
+
+ - 2022-06: [TPM is not the holy way 📜](Confs/SSTIC22/SSTIC2022-Article-tpm_is_not_the_holy_way-forgette_7RUa27n.pdf)
+ - 2022-04: [Building a Commit-level Dataset of Real-world Vulnerabilities 📜](https://dl.acm.org/doi/10.1145/3508398.3511495)[(alt📜)](https://hal.archives-ouvertes.fr/hal-03477866)
+
+### 2021
+
+ - 2021-11: [From Source Code to Crash Test-Case through Software Testing Automation 📜](Confs/C%26ESAR-2021/paper-02.pdf)
+ - 2021-11: [Reversing and Fuzzing the Google Titan M Chip 📜](Confs/ROOTS2021/DamianoMelotti_ReversingAndFuzzingTheGoogleTitanMChip_paper.pdf)
+ - 2021-08: [SSE and SSD : Page-Efficient Searchable Symmetric Encryption 📜](Confs/CRYPTO2021/978-3-030-84252-9_6.pdf)[(alt📜)](https://eprint.iacr.org/2021/716.pdf)
+ - 2021-06: [Unlinkable and Invisible γ-Sanitizable Signatures 📜](Confs/ACNS2021/978-3-030-78372-3_10.pdf)[(alt📜)](https://eprint.iacr.org/2020/1490.pdf)
+ - 2021-06: [Exploitation du graphe de dépendance d'AOSP à des fins de sécurité 📜](Confs/SSTIC21/SSTIC2021-Article-bgraph-challande_renault_david.pdf)
+ - 2021-06: [EEPROM : It Will All End in Tears 📜](Confs/SSTIC21/SSTIC2021-Article-eeprom_it_will_all_end_in_tears-herrmann_teuwen.pdf)
+ - 2021-11: [2021 : A Titan M Odyssey 📜](Confs/BlackHat-Europe-21/EU-21-Rossi_Bellom-2021_A_Titan_M_Odyssey-wp.pdf)
+ - 2021-08: [Greybox Program Synthesis : A New Approach to Attack Obfuscation 📜](Confs/BlackHat-USA-21/US-21-David-Greybox-Program-Synthesis-wp.pdf)
+
+### 2020
+
+ - 2020-07: [Toward an Asymmetric White-Box Proposal 📜](Confs/JCC2020/2020_893.pdf)
+ - 2020-06: [Fuzz and Profit with WHVP 📜](Confs/SSTIC20/SSTIC2020-Article-fuzz_and_profit_with_whvp-aumaitre.pdf)
+ - 2020-06: [Inter-CESTI : Methodological and Technical Feedbacks on Hardware Devices 📜](Confs/SSTIC20/SSTIC2020-Article-inter-cesti_methodological_and_technical_feedbacks_on_hardware_devices_evaluations-benadjila.pdf)
+ - 2020-02: [QSynth - A Program Synthesis based approach for Binary Code Deobfuscation 📜](Confs/BAR20/bar2020-preprint9.pdf)
+
+### 2019
+
+ - 2019-11: [Epona and the Obfuscation Paradox : Transparent for Users and Developers, a Pain for Reversers 📜](https://dl.acm.org/doi/10.1145/3338503.3357722)
+ - 2019-10: [White-Box Cryptography : Don't Forget About Grey-Box Attacks 📜](https://link.springer.com/content/pdf/10.1007/s00145-019-09315-1.pdf)
+
+### 2018
+
+ - 2018-09: [Combining obfuscation and optimizations in the real world 📜](Confs/SCAM2018/scam_2018.pdf)
+ - 2018-07: [Quadratic Time Algorithm for Inversion of Binary Permutation Polynomials 📜](Confs/ICMS2018/inversion-z2n-lcns.pdf)[(alt📜)](https://hal.science/hal-01981320/document)
+ - 2018-06: [Attacking serial flash chip : case study of a black box device 📜](Confs/SSTIC18/SSTIC2018-Article-attacking_serial_flash_chip_case_study_of_a_black_box_device-benoit_heilles_teuwen.pdf)
+ - 2018-06: [Symbolic Deobfuscation : From Virtualized Code Back to the Original 📜](Confs/DIMVA18/DIMVA2018-deobfuscation-salwan-bardin-potet.pdf)[(alt📜)](https://hal.science/hal-04478814v1/document)
+ - 2018-04: [Easy::Jit : compiler assisted library to enable just-in-time compilation in C++ codes 📜](https://dl.acm.org/doi/abs/10.1145/3191697.3191725)
+
+### 2017
+
+ - 2017-06: [Reconstruction de fonctions virtualisées 📜](Confs/SSTIC17/SSTIC2017_Deobfuscation_of_VM_based_software_protection.pdf)
+
+### 2016
+
+ - 2016-11: [Arybo : Manipulation, Canonicalization and Identification of Mixed Boolean-Arithmetic Symbolic Expressions 📜](Confs/GreHack2016/hal-01390528.pdf)
+ - 2016-10: [Binary Permutation Polynomial Inversion and Application to Obfuscation Techniques 📜](Confs/SPRO2016/2995306.2995310.pdf)[(alt📜)](https://inria.hal.science/hal-01388108/document)
+ - 2016-10: [Defeating MBA-based Obfuscation 📜](Confs/SPRO2016/2995306.2995308.pdf)[(alt📜)](https://hal.science/hal-01388109v1/document)
+ - 2016-11: [Ghost in the PLC: Designing an Undetectable Programmable Logic Controller Rootkit via Pin Control Attack 📜](Confs/BlackHat-Europe-16/eu-16-Abbasi-Ghost-In-The-PLC-paper.pdf)
+ - 2016-08: [Differential computation analysis: Hiding your white-box designs is not enough 📜](Confs/CHES2016/978-3-662-53140-2_11.pdf)
+ - 2016-08: [Collecting relations for the Number Field Sieve in $GF(p^6)$ 📜](https://www.cambridge.org/core/journals/lms-journal-of-computation-and-mathematics/article/collecting-relations-for-the-number-field-sieve-in-textgfp6/7CA4DA868670B359E88C9663E4B52F92)
+ - 2016-06: [Design de cryptographie white-box : et à la fin, c'est Kerckhoffs qui gagne 📜](Confs/SSTIC16/SSTIC2016-Article-design_de_cryptographie_white-box_et_a_la_fin_c_est_kerckhoffs_qui_gagne-hubain_teuwen_1.pdf)
+ - 2016-02: [NFLlib: NTT-Based Fast Lattice Library 📜]()
+
+### 2015
+
+ - 2015-06: [IRMA : Incident Response and Malware Analysis 📜](Confs/SSTIC15/SSTIC2015-Article-irma_incident_response_and_malware_analysis.pdf)
+ - 2015-06: [Analyse de sécurité de technologies propriétaires SCADA 📜](Confs/SSTIC15/SSTIC2015-Article-analyse_de_scurite_de_technologies_propritaires_scada.pdf)
+ - 2015-06: [Triton: Concolic Execution Framework 📜](Confs/SSTIC15/SSTIC2015_French_Paper_Triton_Framework_dexecution_Concolique_FSaudel_JSalwan.pdf)
+ - 2015-06: [Quatre millions d'échanges de clés par seconde 📜](Confs/SSTIC15/SSTIC2015-Article-4M_kx_per_sec-guinet_aguilar_guelton_lepoint.pdf)
+
+### 2014
+
+ - 2014-06: [Désobfuscation de DRM par attaques auxiliaires 📜](Confs/SSTIC14/SSTIC2014-Article-dsobfuscation_de_drm_par_attaques_auxiliaires.pdf)
+ - 2014-06: [Obfuscation de code Python : amélioration des techniques existantes 📜](Confs/SSTIC14/SSTIC2014-Article-obfuscation_de_code_python.pdf)
+ - 2014-06: [Reconnaissance réseau à grande échelle : port scan is not dead 📜](Confs/SSTIC14/SSTIC2014-Article-port_scan_is_not_dead.pdf)
+ - 2014-06: [Recherche de vulnérabilités dans les piles USB : approches et outils 📜](Confs/SSTIC14/SSTIC2014-Article-recherche_de_vulnrabilits_dans_les_piles_usb.pdf)
+
+### 2013
+
+ - 2013-06: [Sécurité des applications Android constructeurs et réalisation de backdoors sans permission 📜](Confs/SSTIC13/SSTIC2013-Article-securite_applications_android.pdf)
+ - 2013-06: [UEFI and Dreamboot 📜](Confs/SSTIC13/SSTIC2013-Article-dreamboot_et_uefi-kaczmarek.pdf)
+
+### 2012
+
+ - 2012-06: [WinRT 📜](Confs/SSTIC12/SSTIC2012-Article-WinRT.pdf)
+
+## Quarkslab Publications in Specialized Magazines
+
+
+ - 2024-03: [Comprendre et manipuler les mécanismes d’isolation des conteneurs 📜](https://connect.ed-diamond.com/misc/misc-132/comprendre-et-manipuler-les-mecanismes-d-isolation-des-conteneurs) In MISC Numéro 132
+ - 2023-05: [Bug Bounty, Quand les hackers deviennent chasseurs de primes ! 📜](https://connect.ed-diamond.com/misc/misc-127/introduction-au-dossier-bug-bounty) In MISC Numéro 127
+ - 2023-03: [Comment attaquer un port USB ? 📜](https://connect.ed-diamond.com/misc/misc-126/comment-attaquer-un-port-usb) In MISC Numéro 126 (freely accessible)
+ - 2023-01: [Dossier: Web 2023, Les nouvelles surfaces d'attaques ! 📜](https://connect.ed-diamond.com/misc/misc-125/introduction-au-dossier-web-2023-les-nouvelles-surfaces-d-attaques) In MISC Numéro 125
+ - 2022-11: [Découverte de Fuchsia et analyses préliminaires du Google Nest Hub 📜](https://connect.ed-diamond.com/misc/misc-124/decouverte-de-fuchsia-et-analyses-preliminaires-du-google-nest-hub) In MISC Numéro 124
+ - 2022-10: [Isoler ses ressources MS Azure 📜](https://connect.ed-diamond.com/misc/mischs-026/isoler-ses-ressources-ms-azure) In MISC Numéro HS 26
+ - 2022-10: [Les nouveautés de sécurité de Kubernetes 📜](https://connect.ed-diamond.com/misc/mischs-026/les-nouveautes-de-securite-de-kubernetes) In MISC Numéro HS 26
+ - 2022-10: [Bienvenue chez les cLoud 📜](https://connect.ed-diamond.com/misc/mischs-026/bienvenue-chez-les-cloud) In MISC Numéro HS 26
+ - 2022-03: [La compilation statique démythifiée - Une plongée dans les entrailles de mon compilo 📜](https://connect.ed-diamond.com/misc/misc-120/la-compilation-statique-demysthifiee-une-plongee-dans-les-entrailles-de-mon-compilo) In MISC Numéro 120 (freely accessible)
+ - 2021-09: [Comment analyser un programme : du statique au dynamique jusqu'à l'instrumentation 📜](https://connect.ed-diamond.com/misc/mischs-024/comment-analyser-un-programme-du-statique-au-dynamique-jusqu-a-l-instrumentation) In MISC HS Numéro 24
+ - 2021-09: [Introduction au reverse hardware 📜](https://connect.ed-diamond.com/misc/mischs-024/introduction-au-reverse-hardware) In MISC HS Numéro 24 (freely accessible)
+ - 2021-09: [De l'extraction de firmware à l'exécution de code sur la carte SD FlashAir 📜](https://connect.ed-diamond.com/misc/mischs-024/de-l-extraction-de-firmware-a-l-execution-de-code-sur-la-carte-sd-flashair) In MISC HS Numéro 24
+ - 2021-09: [La compilation : du code au binaire... et retour ! 📜](https://connect.ed-diamond.com/misc/mischs-024/la-compilation-du-code-au-binaire...-et-retour) In MISC HS Numéro 24 (freely accessible)
+ - 2021-09: [Vulnérabilités, Binary Diffing et Crashs 📜](https://connect.ed-diamond.com/misc/misc-117/vulnerabilites-binary-diffing-et-crashs) In MISC Numéro 117
+ - 2021-07: [Un EDR sous Android ? 📜](https://connect.ed-diamond.com/misc/misc-116/un-edr-sous-android) In MISC Numéro 116 (freely accessible)
+ - 2021-03: [Découverte de la puce Titan M a.k.a Citadel 📜](https://connect.ed-diamond.com/MISC/misc-114/decouverte-de-la-puce-titan-m-a.k.a-citadel) In MISC Numéro 114 (freely accessible)
+ - 2020-11: [Orchestration d'analyse 📜](https://connect.ed-diamond.com/MISC/misc-112/orchestration-d-analyse) In MISC Numéro 112 (freely accessible)
+ - 2020-11: [Grandeur et décadence de Kubernetes : attaquer le futur Cloud OS 📜](https://connect.ed-diamond.com/MISC/misc-112/grandeur-et-decadence-de-kubernetes-attaquer-le-futur-cloud-os) In MISC Numéro 112 (freely accessible)
+ - 2020-05: [Introduction à QBDI et ses bindings Python 📜](https://connect.ed-diamond.com/MISC/misc-109/introduction-a-qbdi-et-ses-bindings-python) In MISC Numéro 109
+ - 2020-05: [Faciliter la création d'exploits avec DragonFFI : le cas de CVE-200977-18 📜](https://connect.ed-diamond.com/MISC/misc-109/faciliter-la-creation-d-exploits-avec-dragonffi-le-cas-de-cve-200977-18) In MISC Numéro 109 (freely accessible)
+ - 2019-07: [Exploitation du CVE-200977-18 dans le noyau Windows 📜](https://connect.ed-diamond.com/MISC/misc-104/exploitation-du-cve-200977-18-dans-le-noyau-windows) In MISC Numéro 104
+ - 2019-03: [Analyse du contournement de KTRR 📜](https://connect.ed-diamond.com/MISC/misc-102/analyse-du-contournement-de-ktrr) In MISC Numéro 102 (freely accessible)
+ - 2017-09: [Voyages en C++ie : les symboles 📜](https://connect.ed-diamond.com/MISC/misc-093/voyage-en-cie-les-symboles) In MISC Numéro 93 (freely accessible)
+ - 2017-07: [Anti-RE 101 📜](https://connect.ed-diamond.com/MISC/misc-092/anti-re-101) In MISC Numéro 92
+
+## Quarkslab Hardware CTFs
+
+
+ - 2024-10: [Hardware CTF v7 🖥️](HardwareCTF/202410_v7_hardweario_nl.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2561).
  - 2024-05: [Hardware CTF v6 🖥️](HardwareCTF/202405_v6_hardweario_usa.pdf) at *[Hardwear.io USA 2024](https://hardwear.io/usa-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2400).
  - 2023-11: [Hardware CTF v6 🖥️](HardwareCTF/202311_v6_hardweario_nl.pdf) at *[Hardwear.io NL 2023](https://hardwear.io/netherlands-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2176).
  - 2023-06: [Hardware CTF v5 🖥️](HardwareCTF/202306_v5_hardweario_usa.pdf) at *[Hardwear.io USA 2023](https://hardwear.io/usa-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2183).
