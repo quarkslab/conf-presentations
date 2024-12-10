@@ -10,11 +10,12 @@
 
 ### 2024
 
+ - 2024-12: [Faster Signatures from MPC-in-the-Head 📜](https://eprint.iacr.org/2024/252.pdf) at *[Asiacrypt 2024](https://asiacrypt.iacr.org/2024/)*
  - 2024-11: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant... and a few hardware backdoors 🖥️](Confs/C%26ESAR-2024/2024-11-21-mifare-pteuwen-ecw-cesar.pdf)[📜](https://2024.cesar-conference.org/program-media/CESAR-2024_keynote-MiFare.pdf)[📽️](https://2024.cesar-conference.org/program-media/CESAR-2024_6-2_keynote-MiFare.webm) at *[C&ESAR 2024 by DGA](https://2024.cesar-conference.org/detailed-program/)*
  - 2024-11: [Improving binary diffing through similarity and matching intricacies 🖥️](Confs/CAID-2024/CAID24_raffinement_diffing_binaire_slides.pdf)[📜](Confs/CAID-2024/CAID24_raffinement_diffing_binaire_paper.pdf) at *[CAID: Conference on Artificial Intelligence for Defense](https://caid-conference.eu)*
  - 2024-11: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant 🖥️](Confs/GreHack2024/2024-11-15-mifare-pteuwen-grehack.pdf) at *[Grehack 2024](https://grehack.fr/)*
  - 2024-10: [Bluetooth Low Energy GATT Fuzzing: from specification to implementation 🖥️](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-bboyer.pdf)[📜](Confs/Hardweario-NL-2024/2024-10-25-ble-gatt-fuzzing-paper-bboyer.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
- - 2024-10: [MIFARE Classic: exposing the static encrypted nonce variant 🖥️](Confs/Hardweario-NL-2024/2024-10-24-mifare-pteuwen.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
+ - 2024-10: [MIFARE Classic: exposing the static encrypted nonce variant 🖥️](Confs/Hardweario-NL-2024/2024-10-24-mifare-pteuwen.pdf)[📽️](https://www.youtube.com/watch?v=rdH4dbshGUU) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/)*
  - 2024-10: [Spyware for Rent 🖥️](Confs/Les%20Assises%20-%202024/24-10-10-Monaco-Spyware-to-rent.pdf) at *[Les Assises 2024](https://www.lesassisesdelacybersecurite.com/fr-FR/le-programme/le-deroule-des-4-jours)*
  - 2024-08: [De 'branch' en 'branch' : récupération d'un FW d'ECU sur une mémoire FAT 'nettoyée' 🖥️](Confs/Barbhack24/Barbhack_2024_De_branch_en_branch.pdf) at *[Barbhack 2024](https://www.barbhack.fr/2024/en/)*
  - 2024-08: [One for all and all for WHAD: wireless shenanigans made easy ! 🖥️](Confs/DefCon2024/dc32-cauquil-cayre-One_for_all_and_all_for_whad-v4.pdf)[📽️](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20video%20and%20slides/DEF%20CON%2032%20-%20One%20for%20All%20-%20and%20All%20for%20WHAD%20-%20wireless%20shenanigans%20made%20easy%20-%20Romain%20Cayre%2C%20Damien%20Cauquil.mp4) at *[DEF CON 32](https://defcon.org/html/defcon-32/dc-32-speakers.html#54472)*
@@ -243,6 +244,8 @@
 
 ### 2024
 
+ - 2024-12: [Faster Signatures from MPC-in-the-Head 📜](https://eprint.iacr.org/2024/252.pdf)
+ - 2024-11: [Improving binary diffing through similarity and matching intricacies 📜](Confs/CAID-2024/CAID24_raffinement_diffing_binaire_paper.pdf)
  - 2024-08: [MIFARE Classic: exposing the static encrypted nonce variant 📜](https://eprint.iacr.org/2024/1275.pdf)
  - 2024-02: [Short Signatures from Regular Syndrome Decoding, Revisited 📜](https://eprint.iacr.org/2024/252.pdf)
 
