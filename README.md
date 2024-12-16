@@ -10,7 +10,8 @@
 
 ### 2024
 
- - 2024-12: [Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code 📜](Confs/ComplexNetworks2024/complexnetworks2024.pdf) at *[Complex Networks 2024](https://complexnetworks.org/)*
+ - 2024-12: [Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code 🖥️](Confs/ComplexNetworks2024/complexnetworks2024_slides.pdf)[📜](Confs/ComplexNetworks2024/complexnetworks2024_paper.pdf) at *[Complex Networks 2024](https://complexnetworks.org/)*
+ - 2024-12: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant... and a few hardware backdoors 📽️](https://www.youtube.com/watch?v=uw8N4IhQc0s) at *[COSIC Seminar, KUL](https://www.esat.kuleuven.be/cosic/cosic-seminars/)*
  - 2024-12: [Faster Signatures from MPC-in-the-Head 📜](https://eprint.iacr.org/2024/252.pdf) at *[Asiacrypt 2024](https://asiacrypt.iacr.org/2024/)*
  - 2024-11: [*Invited talk:* MIFARE Classic: exposing the static encrypted nonce variant... and a few hardware backdoors 🖥️](Confs/C%26ESAR-2024/2024-11-21-mifare-pteuwen-ecw-cesar.pdf)[📜](https://2024.cesar-conference.org/program-media/CESAR-2024_keynote-MiFare.pdf)[📽️](https://2024.cesar-conference.org/program-media/CESAR-2024_6-2_keynote-MiFare.webm) at *[C&ESAR 2024 by DGA](https://2024.cesar-conference.org/detailed-program/)*
  - 2024-11: [Improving binary diffing through similarity and matching intricacies 🖥️](Confs/CAID-2024/CAID24_raffinement_diffing_binaire_slides.pdf)[📜](Confs/CAID-2024/CAID24_raffinement_diffing_binaire_paper.pdf) at *[CAID: Conference on Artificial Intelligence for Defense](https://caid-conference.eu)*
