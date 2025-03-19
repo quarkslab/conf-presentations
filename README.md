@@ -8,6 +8,10 @@
 ## Quarkslab Lectures at Conferences and Seminars
 
 
+### 2025
+
+ - 2025-03: [Streamlining Firmware Analysis with Inter-Image Call Graphs and Decompilation 🖥️](Confs/REverse-25/REverse_firmware_analysis_2025.pdf) at *[RE/verse.io 2025](https://re-verse.io)*
+
 ### 2024
 
  - 2024-12: [Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code 🖥️](Confs/ComplexNetworks2024/complexnetworks2024_slides.pdf)[📜](Confs/ComplexNetworks2024/complexnetworks2024_paper.pdf) at *[Complex Networks 2024](https://complexnetworks.org/)*
