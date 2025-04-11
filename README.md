@@ -10,7 +10,7 @@
 
 ### 2025
 
- - 2025-03: [Streamlining Firmware Analysis with Inter-Image Call Graphs and Decompilation 🖥️](Confs/REverse-25/REverse_firmware_analysis_2025.pdf) at *[RE/verse.io 2025](https://re-verse.io)*
+ - 2025-03: [Streamlining Firmware Analysis with Inter-Image Call Graphs and Decompilation 🖥️](Confs/REverse-25/REverse_firmware_analysis_2025.pdf)[📽️](https://www.youtube.com/watch?v=LsDnrfZt_Xs) at *[RE/verse.io 2025](https://re-verse.io)*
 
 ### 2024
 
