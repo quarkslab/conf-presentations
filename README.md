@@ -10,6 +10,7 @@
 
 ### 2025
 
+ - 2025-05: [Spyware for Rent & The World of Offensive Cyber 🖥️](Confs/Off-By-One-2025/25-05-08-OffbyOne-Spyware-to-rent-and-offensive-world-reloaded.pdf) at *[Off-by-One 2025](https://offbyone.sg/agenda/)*
  - 2025-03: [Streamlining Firmware Analysis with Inter-Image Call Graphs and Decompilation 🖥️](Confs/REverse-25/REverse_firmware_analysis_2025.pdf)[📽️](https://www.youtube.com/watch?v=LsDnrfZt_Xs) at *[RE/verse.io 2025](https://re-verse.io)*
 
 ### 2024
