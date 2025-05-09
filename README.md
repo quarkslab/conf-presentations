@@ -13,6 +13,7 @@
  - 2025-05: [Spyware for Rent & The World of Offensive Cyber 🖥️](Confs/Off-By-One-2025/25-05-08-OffbyOne-Spyware-to-rent-and-offensive-world-reloaded.pdf) at *[Off-by-One 2025](https://offbyone.sg/agenda/)*
  - 2025-05: [S.H.I.E.L.D: Scudo Heap Implementation Exploits, Leaks, and Defenses 🖥️](Confs/Off-By-One-2025/25-05-08-OffByOne-SHIELD-Scudo-Heap-Implementation-Exploits-Leaks-Defenses.pdf) at *[Off-by-One 2025](https://offbyone.sg/agenda/)*
  - 2025-04: [Test your Cryptographic Primitives with Crypto-Condor 🖥️](Confs/RealWorldCrypto-Paris/2025-04-29-rwcp_jloayza_crypto_condor.pdf) at *[Real World Cryptography Paris Meetups](https://cryptography.paris/)*
+ - 2025-04: [One for all and all for WHAD: wireless shenanigans made easy ! 📽️](https://www.youtube.com/live/rqKiDgecRwM?si=u-rcSvi2O-uI7Bbh&t=17557) at *[THCon 2025](https://thcon.party/)*
  - 2025-03: [0day in CTF is cool, no? (Writeup PwnMe 2025) 🖥️](Confs/HTBFrance2025/Meetup HTB France - 0day in CTF is cool - Writeup PwnMe 2025.pdf) at *[Meetup Hack The Box France](https://www.meetup.com/hack-the-box-meetup-france/events/306897502/)*
  - 2025-03: [Streamlining Firmware Analysis with Inter-Image Call Graphs and Decompilation 🖥️](Confs/REverse-25/REverse_firmware_analysis_2025.pdf)[📽️](https://www.youtube.com/watch?v=LsDnrfZt_Xs) at *[RE/verse.io 2025](https://re-verse.io)*
 
