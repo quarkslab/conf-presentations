@@ -10,6 +10,10 @@
 
 ### 2025
 
+ - 2025-06: [Pyrrha & Friends: Diving into Firmware Cartography 🖥️](Confs/SSTIC25/SSTIC2025-Slides-pyrrha-and-friends.pdf)[📽️](https://static.sstic.org/videos2025/1080p/pyrrha_diving_into_firmware_cartography.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
+ - 2025-06: [We Have A Deal: we provide the lego bricks, you build cool wireless attacks 🖥️](Confs/SSTIC25/SSTIC2025-Slides-we_have_a_deal.pdf)[📜](Confs/SSTIC25/SSTIC2025-Article-we_have_a_deal.pdf)[📽️](https://static.sstic.org/videos2025/1080p/we_have_a_deal_we_provide_the_lego_bricks_you_build_cool_wireless_attacks.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
+ - 2025-06: [Wirego - Un framework de développement de plugins Wireshark 🖥️](Confs/SSTIC25/SSTIC2025-Slides-wirego.pdf)[📽️](https://static.sstic.org/videos2025/1080p/wirego_un_framework_de_developpement_de_plugins_wireshark.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
+ - 2025-06: [apkpatcher : Fast analysis and modification to Android applications without root access or emulation 📽️](https://static.sstic.org/videos2025/1080p/apkpatcherv2.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
  - 2025-05: [Spyware for Rent & The World of Offensive Cyber 🖥️](Confs/Off-By-One-2025/25-05-08-OffbyOne-Spyware-to-rent-and-offensive-world-reloaded.pdf) at *[Off-by-One 2025](https://offbyone.sg/agenda/)*
  - 2025-05: [S.H.I.E.L.D: Scudo Heap Implementation Exploits, Leaks, and Defenses 🖥️](Confs/Off-By-One-2025/25-05-08-OffByOne-SHIELD-Scudo-Heap-Implementation-Exploits-Leaks-Defenses.pdf) at *[Off-by-One 2025](https://offbyone.sg/agenda/)*
  - 2025-04: [Test your Cryptographic Primitives with Crypto-Condor 🖥️](Confs/RealWorldCrypto-Paris/2025-04-29-rwcp_jloayza_crypto_condor.pdf) at *[Real World Cryptography Paris Meetups](https://cryptography.paris/)*
