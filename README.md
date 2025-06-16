@@ -10,10 +10,10 @@
 
 ### 2025
 
- - 2025-06: [Pyrrha & Friends: Diving into Firmware Cartography 🖥️](Confs/SSTIC25/SSTIC2025-Slides-pyrrha-and-friends.pdf)[📽️](https://static.sstic.org/videos2025/1080p/pyrrha_diving_into_firmware_cartography.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
+ - 2025-06: [Pyrrha & Friends: Diving into Firmware Cartography 🖥️](Confs/SSTIC25/SSTIC2025-Slides-pyrrha_diving_into_firmware_cartography-brocas_david.pdf)[📽️](https://static.sstic.org/videos2025/1080p/pyrrha_diving_into_firmware_cartography.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
  - 2025-06: [We Have A Deal: we provide the lego bricks, you build cool wireless attacks 🖥️](Confs/SSTIC25/SSTIC2025-Slides-we_have_a_deal.pdf)[📜](Confs/SSTIC25/SSTIC2025-Article-we_have_a_deal.pdf)[📽️](https://static.sstic.org/videos2025/1080p/we_have_a_deal_we_provide_the_lego_bricks_you_build_cool_wireless_attacks.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
- - 2025-06: [Wirego - Un framework de développement de plugins Wireshark 🖥️](Confs/SSTIC25/SSTIC2025-Slides-wirego.pdf)[📽️](https://static.sstic.org/videos2025/1080p/wirego_un_framework_de_developpement_de_plugins_wireshark.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
- - 2025-06: [apkpatcher : Fast analysis and modification to Android applications without root access or emulation 📽️](https://static.sstic.org/videos2025/1080p/apkpatcherv2.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
+ - 2025-06: [Wirego - Un framework de développement de plugins Wireshark 🖥️](Confs/SSTIC25/SSTIC2025-Slides-wirego_un_framework_de_developpement_de_plugins_wireshark-girard.pdf)[📜](Confs/SSTIC25/SSTIC2025-Article-wirego_un_framework_de_developpement_de_plugins_wireshark-girard.pdf)[📽️](https://static.sstic.org/videos2025/1080p/wirego_un_framework_de_developpement_de_plugins_wireshark.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
+ - 2025-06: [apkpatcher : Fast analysis and modification to Android applications without root access or emulation 🖥️](Confs/SSTIC25/SSTIC2025-Slides-apkpatcherv2-forgette.pdf)[📽️](https://static.sstic.org/videos2025/1080p/apkpatcherv2.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
  - 2025-05: [Spyware for Rent & The World of Offensive Cyber 🖥️](Confs/Off-By-One-2025/25-05-08-OffbyOne-Spyware-to-rent-and-offensive-world-reloaded.pdf) at *[Off-by-One 2025](https://offbyone.sg/agenda/)*
  - 2025-05: [S.H.I.E.L.D: Scudo Heap Implementation Exploits, Leaks, and Defenses 🖥️](Confs/Off-By-One-2025/25-05-08-OffByOne-SHIELD-Scudo-Heap-Implementation-Exploits-Leaks-Defenses.pdf) at *[Off-by-One 2025](https://offbyone.sg/agenda/)*
  - 2025-04: [Test your Cryptographic Primitives with Crypto-Condor 🖥️](Confs/RealWorldCrypto-Paris/2025-04-29-rwcp_jloayza_crypto_condor.pdf) at *[Real World Cryptography Paris Meetups](https://cryptography.paris/)*
@@ -196,6 +196,7 @@
  - 2017-07: [LIEF: Library to Instrument Executable Formats 🖥️](Confs/RMLL17/17-RMLL-LIEF-rthomas.pdf)[📽️](https://archives.pass-the-salt.org/RMLL%20Security%20Tracks/2017/videos/RMLL-Sec-2017-lief_63569_720p.mp4) at *RMLL 2017*
  - 2017-06: [Playing with Binary Analysis: Deobfuscation of VM based software protection / Désobfuscation binaire : Reconstruction de fonctions virtualisées 🖥️](Confs/SSTIC17/SSTIC2017_Deobfuscation_of_VM_based_software_protection.pdf)[📜](Confs/SSTIC17/SSTIC2017_Deobfuscation_of_VM_based_software_protection.pdf)[📽️](https://static.sstic.org/videos2017/SSTIC_2017-06-07_P08.mp4) at *[SSTIC 2017](https://www.sstic.org/2017/programme/)*
  - 2017-04: [LIEF: Library to Instrument Executable Formats 🖥️](Confs/FranceJapanICST2017/RThomas_presentation_2017.pdf) at *[Third French Japanese Meeting on Cybersecurity](https://project.inria.fr/FranceJapanICST/wokshops/2017-program/presentations/)*
+ - 2017-04: [Ma vie, mon œuvre, et le cyber 🖥️](Confs/SeminaireIE2017/raynal_17_04_ege_fr.pdf) at *[92ème séminaire d’intelligence économique](https://www.ege.fr/actualites/seminaire-ie-retour-d-experience-sur-les-questions-de-cyber-securite-de-deux-praticiens-du-conseil.html)*
  - 2017-03: [Playing with Binary Analysis: Deobfuscation of VM based software protection 📽️](https://www.youtube.com/watch?v=wr2BtVO9rKk) at *[THCon 2017](https://17.toulousehackingconvention.fr/)*
 
 ### 2016
@@ -377,6 +378,7 @@
 ## Quarkslab Hardware CTFs
 
 
+ - 2025-05: [Hardware CTF v7 🖥️](HardwareCTF/202505_v7_hardweario_usa.pdf) at *[Hardwear.io USA 2025](https://hardwear.io/usa-2025/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2788).
  - 2024-10: [Hardware CTF v7 🖥️](HardwareCTF/202410_v7_hardweario_nl.pdf) at *[Hardwear.io NL 2024](https://hardwear.io/netherlands-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2561).
  - 2024-05: [Hardware CTF v6 🖥️](HardwareCTF/202405_v6_hardweario_usa.pdf) at *[Hardwear.io USA 2024](https://hardwear.io/usa-2024/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2400).
  - 2023-11: [Hardware CTF v6 🖥️](HardwareCTF/202311_v6_hardweario_nl.pdf) at *[Hardwear.io NL 2023](https://hardwear.io/netherlands-2023/ctf.php)*. Results on [CTFtime](https://ctftime.org/event/2176).
