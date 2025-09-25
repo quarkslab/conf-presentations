@@ -10,6 +10,7 @@
 
 ### 2025
 
+ - 2025-07: [Experimental Study of Binary Diffing Resilience on Obfuscated Programs 🖥️](Confs/DIMVA25/dimva-slides-25.pdf)[📜](Confs/DIMVA25/dimva-25.pdf) at *[22nd Conference on Detection of Intrusions and Malware & Vulnerability Assessment, DIMVA 2025](https://dimva.org/dimva2025/)*
  - 2025-07: [The Last Resort: Debugging Embedded Systems with Unconventional Methods 🖥️](Confs/PTS25/PTS2025-TALK-01-debugging_embedded.pdf)[📽️](https://passthesalt.ubicast.tv/videos/the-last-resort-debugging-embedded-systems-with-unconventional-methods-trimmed/) at *[Pass the SALT 2025](https://2025.pass-the-salt.org/)*
  - 2025-07: [Wirego, a Wireshark plugin development framework 🖥️](Confs/PTS25/PTS2025-TALK-14-Wirego.pdf)[📽️](https://passthesalt.ubicast.tv/videos/wirego-a-wireshark-plugin-development-framework-trimmed/) at *[Pass the SALT 2025](https://2025.pass-the-salt.org/)*
  - 2025-06: [Abusing Domestic EV Chargers through Bluetooth and USB 🖥️](Confs/Recon25/Recon25-Abusing-EV-Chargers-rmori-rdavid-achazal.pdf) at *[Recon.cx 2025](https://recon.cx/2025/)*
