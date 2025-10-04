@@ -264,6 +264,8 @@
 
 ### 2025
 
+ - 2025-09: [Identifying obfuscated code through graph-based semantic analysis of binary code 📜](Confs/ANS25/ans-25.pdf)
+ - 2025-07: [Experimental Study of Binary Diffing Resilience on Obfuscated Programs 📜](Confs/DIMVA25/dimva-25.pdf)
 
 ### 2024
 
