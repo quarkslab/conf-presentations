@@ -10,10 +10,18 @@
 
 ### 2025
 
+ - 2025-10: [T'as vu mes docs ? Je les fais avec typst ! 🖥️](Confs/VolCamp25/Typst_pres.pdf)[📽️](https://www.youtube.com/watch?v=XyFN6EywEPw) at *[Volcamp](https://www.volcamp.io/)*
+ - 2025-09: [Bypassing ASLR on MIPS32 using simple mathematics 🖥️](Confs/WineRump25/BypassingASLRonMIPS32.pdf) at *[Wine Rump](https://rump.wine/)*
+ - 2025-09: [Bluetooth Low Energy hacking with WHAD 🖥️](Confs/BruCon25/lehack25_fun-with-watches_dcauquil_xilokar.pdf) workshop  at *[BruCon](https://www.brucon.org/)*
  - 2025-07: [Experimental Study of Binary Diffing Resilience on Obfuscated Programs 🖥️](Confs/DIMVA25/dimva-slides-25.pdf)[📜](Confs/DIMVA25/dimva-25.pdf) at *[22nd Conference on Detection of Intrusions and Malware & Vulnerability Assessment, DIMVA 2025](https://dimva.org/dimva2025/)*
  - 2025-07: [The Last Resort: Debugging Embedded Systems with Unconventional Methods 🖥️](Confs/PTS25/PTS2025-TALK-01-debugging_embedded.pdf)[📽️](https://passthesalt.ubicast.tv/videos/the-last-resort-debugging-embedded-systems-with-unconventional-methods-trimmed/) at *[Pass the SALT 2025](https://2025.pass-the-salt.org/)*
+ - 2025-07: [Bluetooth Low Energy hacking with WHAD 🖥️](Confs/PTS25/lehack25_fun-with-watches_dcauquil_xilokar.pdf) workshop  at *[Pass the SALT 2025](https://2025.pass-the-salt.org/)*
  - 2025-07: [Wirego, a Wireshark plugin development framework 🖥️](Confs/PTS25/PTS2025-TALK-14-Wirego.pdf)[📽️](https://passthesalt.ubicast.tv/videos/wirego-a-wireshark-plugin-development-framework-trimmed/) at *[Pass the SALT 2025](https://2025.pass-the-salt.org/)*
+ - 2025-07: [Apkpatcher: Reverse Engineering and Modifying Android Applications Without Rooting 🖥️](Confs/PTS25/APKPatcher.pdf) workshop  at *[Pass the SALT 2025](https://2025.pass-the-salt.org/APKPatcher.pdf)*
  - 2025-06: [Abusing Domestic EV Chargers through Bluetooth and USB 🖥️](Confs/Recon25/Recon25-Abusing-EV-Chargers-rmori-rdavid-achazal.pdf) at *[Recon.cx 2025](https://recon.cx/2025/)*
+ - 2025-06: [Apkpatcher: Reverse Engineering and Modifying Android Applications Without Rooting 🖥️](Confs/LeHack25/APKPatcher.pdf) workshop  at *[LeHack 2025](https://lehack.org/)*
+ - 2025-06: [The Last Resort: Debugging Embedded Systems with Unconventional Methods 🖥️](Confs/LeHack25/PTS2025-TALK-01-debugging_embedded.pdf) at *[LeHack 2025](https://lehack.org/)*
+ - 2025-06: [Fun with watches: hacking a 12€ smartwatch with Bluetooth Low Energy and 3 wires 🖥️](Confs/LeHack25/lehack25_fun-with-watches_dcauquil_xilokar.pdf) at *[LeHack 2025](https://lehack.org/)*
  - 2025-06: [Pyrrha & Friends: Diving into Firmware Cartography 🖥️](Confs/SSTIC25/SSTIC2025-Slides-pyrrha_diving_into_firmware_cartography-brocas_david.pdf)[📽️](https://static.sstic.org/videos2025/1080p/pyrrha_diving_into_firmware_cartography.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
  - 2025-06: [We Have A Deal: we provide the lego bricks, you build cool wireless attacks 🖥️](Confs/SSTIC25/SSTIC2025-Slides-we_have_a_deal_we_provide_the_lego_bricks_you_build_cool_wireless_attacks-cauquil_cayre.pdf)[📜](Confs/SSTIC25/SSTIC2025-Article-we_have_a_deal_we_provide_the_lego_bricks_you_build_cool_wireless_attacks-cauquil_cayre.pdf)[📽️](https://static.sstic.org/videos2025/1080p/we_have_a_deal_we_provide_the_lego_bricks_you_build_cool_wireless_attacks.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
  - 2025-06: [Wirego - Un framework de développement de plugins Wireshark 🖥️](Confs/SSTIC25/SSTIC2025-Slides-wirego_un_framework_de_developpement_de_plugins_wireshark-girard.pdf)[📜](Confs/SSTIC25/SSTIC2025-Article-wirego_un_framework_de_developpement_de_plugins_wireshark-girard.pdf)[📽️](https://static.sstic.org/videos2025/1080p/wirego_un_framework_de_developpement_de_plugins_wireshark.mp4) at *[SSTIC 2025](https://www.sstic.org/2025/programme/)*
@@ -269,7 +277,7 @@
 
 ### 2024
 
- - 2024-12: [Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code 📜](Confs/ComplexNetworks2024/complexnetworks2024.pdf)
+ - 2024-12: [Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code 📜](Confs/ComplexNetworks2024/complexnetworks2024_paper.pdf)
  - 2024-12: [Faster Signatures from MPC-in-the-Head 📜](https://eprint.iacr.org/2024/252.pdf)
  - 2024-11: [Improving binary diffing through similarity and matching intricacies 📜](Confs/CAID-2024/CAID24_raffinement_diffing_binaire_paper.pdf)
  - 2024-08: [MIFARE Classic: exposing the static encrypted nonce variant 📜](https://eprint.iacr.org/2024/1275.pdf)
