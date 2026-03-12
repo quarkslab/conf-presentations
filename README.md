@@ -7,6 +7,9 @@
 
 ## Quarkslab Lectures at Conferences and Seminars
 
+### 2026
+
+ - 2026-03: [Hash All The Things / Get All the Sig(s) - Introducing Sighthouse for Seamless Function Detection 🖥️](Confs/REverse-26/Reverse26.pdf) at *[RE//verse 2026](https://re-verse.io/index.html)*
 
 ### 2025
 
