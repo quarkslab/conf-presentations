@@ -277,7 +277,9 @@
 
 ## Quarkslab Publications in Journals or Conference Proceedings and Preprints
 
+### 2026
 
+ - 2026-04: [Deobfuscation as a GNN-Based Graph-Edit Problem by Reinforcement Learning 📜](Confs/ESANN2026/ES2026-155.pdf)
 
 ### 2025
 
