@@ -9,8 +9,14 @@
 
 ### 2026
 
+ - 2026-08: [Glitch me et glitch moi sont dans une auto 🖥️](Confs/Barbhack26/Barbhack_2026_Glitch_me_et_glitch_moi_sont_dans_une_auto.pdf) at *[Barbhack 2026](https://barbhack.fr/2026/fr/)*
+ - 2026-06: [SightHouse 🖥️](Confs/PTS26/sighthouse-talk.pdf) at *[PTS26](https://2026.pass-the-salt.org/)*
+ - 2026-06: [SightHouse Workshop 🖥️](Confs/PTS26/SightHouse-workshop.pdf) workshop  at *[PTS26](https://2026.pass-the-salt.org/)*
  - 2026-06: [Pwning bluetooth devices in unexpected ways 🖥️](Confs/LeHack26/lehack26-dcauquil-pwning_bluetooth_devices_unexpected_ways.pdf) at *[leHack26](https://lehack.org/)*
+ - 2026-06: [LeHack 117 : Permis d’illuminer toute la ville 🖥️](Confs/LeHack26/olago.pdf) at *[leHack26](https://lehack.org/)*
+ - 2026-06: [Hacking Bluetooth Low Energy Devices with WHAD 🖥️](Confs/LeHack26/lehack26-dcauquil-pwning_bluetooth_devices_unexpected_ways.pdf) workshop  at *[leHack26](https://lehack.org/)*
  - 2026-06: [Introduction à l’instrumentation dynamique binaire avec QBDI 🖥️](Confs/LeHack26/QBDI.pdf) workshop  at *[leHack26](https://lehack.org/)*
+ - 2026-06: [Apkpatcher: Reverse Engineering and Modifying Android Applications Without Rooting 🖥️](Confs/LeHack26/APKPatcher.pdf) workshop  at *[leHack26](https://lehack.org/)*
  - 2026-05: [Spyware à louer 🖥️](Confs/RESSI2026/26-05-30-RESSI-Spyware-to-rent-and-offensive-world-2026-edition.pdf) at *[RESSI 2026](https://ressi2026.sciencesconf.org/?lang=fr)*
  - 2026-05: [Chain of Thought F's everybody 🖥️](Confs/THCon26/thcon26-apvrille_cauquil-chain_of_thought_fs_everyone.pdf) at *[THCon 2026](https://thcon.party/)*
  - 2026-04: [Breaking the Backbone of Global ISP Networks 🖥️](Confs/DefCon2026/defcon_singapore-breaking_the_backbone_of_global_isp_networks.pdf) at *[DefCon 2026](https://defcon.org)*
