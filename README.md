@@ -9,6 +9,8 @@
 
 ### 2026
 
+- 2026-09: [You Can’t Secure What You Can’t Control: Opening Up the RH850 🖥️](Confs/SecureOurStreets2026/Secure_our_Streets_2026_Opening_up_the_RH850.pdf) at *[Secure our Streets 2026](https://sos.asrg.io/)*
+ - 2026-09: [From OLT to ISP 🖥️](Confs/WineRump26/winerump-breaking_from-olt-to-isp.pdf) at *[Wine Rump](https://rump.wine/)*
  - 2026-08: [Glitch me et glitch moi sont dans une auto 🖥️](Confs/Barbhack26/Barbhack_2026_Glitch_me_et_glitch_moi_sont_dans_une_auto.pdf) at *[Barbhack 2026](https://barbhack.fr/2026/fr/)*
  - 2026-06: [SightHouse 🖥️](Confs/PTS26/sighthouse-talk.pdf) at *[PTS26](https://2026.pass-the-salt.org/)*
  - 2026-06: [SightHouse Workshop 🖥️](Confs/PTS26/SightHouse-workshop.pdf) workshop  at *[PTS26](https://2026.pass-the-salt.org/)*
