@@ -9,6 +9,8 @@
 
 ### 2026
 
+ - 2026-09: [Pwning bluetooth devices in unexpected ways 🖥️](Confs/BruCon26/brucon26_dcauquil_Pwning-Bluetooth-Devices-in-Unexpected-Ways.clean.pdf) at *[BruCon26](https://www.brucon.org/conference)*
+ - 2026-09: [WHAD: We have a demo! 🖥️](Confs/ScapyCon26/scapycon26_cauquil_cayre_WHAD-We-have-a-demo.final.pdf) at *[ScapyCon26](https://dissec.to/scapycon-automotive-2026/)*
 - 2026-09: [You Can’t Secure What You Can’t Control: Opening Up the RH850 🖥️](Confs/SecureOurStreets2026/Secure_our_Streets_2026_Opening_up_the_RH850.pdf) at *[Secure our Streets 2026](https://sos.asrg.io/)*
  - 2026-09: [From OLT to ISP 🖥️](Confs/WineRump26/winerump-breaking_from-olt-to-isp.pdf) at *[Wine Rump](https://rump.wine/)*
  - 2026-08: [Glitch me et glitch moi sont dans une auto 🖥️](Confs/Barbhack26/Barbhack_2026_Glitch_me_et_glitch_moi_sont_dans_une_auto.pdf) at *[Barbhack 2026](https://barbhack.fr/2026/fr/)*
