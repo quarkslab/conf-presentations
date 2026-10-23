@@ -9,6 +9,7 @@
 
 ### 2026
 
+ - 2026-10: [Pyrrha reloaded 🖥️](Confs/HackLu26/Pyrrha2026.pdf)[📽️](https://www.youtube.com/@cooper7139) at *[Hack.Lu26](https://hack.lu/)*
  - 2026-09: [Pwning bluetooth devices in unexpected ways 🖥️](Confs/BruCon26/brucon26_dcauquil_Pwning-Bluetooth-Devices-in-Unexpected-Ways.clean.pdf) at *[BruCon26](https://www.brucon.org/conference)*
  - 2026-09: [WHAD: We have a demo! 🖥️](Confs/ScapyCon26/scapycon26_cauquil_cayre_WHAD-We-have-a-demo.final.pdf) at *[ScapyCon26](https://dissec.to/scapycon-automotive-2026/)*
 - 2026-09: [You Can’t Secure What You Can’t Control: Opening Up the RH850 🖥️](Confs/SecureOurStreets2026/Secure_our_Streets_2026_Opening_up_the_RH850.pdf) at *[Secure our Streets 2026](https://sos.asrg.io/)*
